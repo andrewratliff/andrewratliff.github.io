@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2016-04-21T09:40:00-04:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>Variables as Pointers</title>
+    <link rel="alternate" href="http://blog.url.com/2016/04/21/variables-as-pointers.html"/>
+    <id>http://blog.url.com/2016/04/21/variables-as-pointers.html</id>
+    <published>2016-04-21T09:40:00-04:00</published>
+    <updated>2016-04-21T10:43:35-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Variables as pointers is the idea that variables point to specific place in memory. This is a concept that I didn't quite grasp when coming out of my boot camp. The best way to fully understand this idea is to take a look at some examples.&lt;/p&gt;
+
+&lt;p&gt;Example 1:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;a = 'hi there'&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;b = a&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;a = 'not here'&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;What is &lt;code&gt;b&lt;/code&gt; in the above code? My first instinct was that &lt;code&gt;b&lt;/code&gt; would be the string &lt;code&gt;'not here'&lt;/code&gt; because the second line said that &lt;code&gt;b = a&lt;/code&gt;. In fact, &lt;code&gt;b&lt;/code&gt; is still pointing to the string &lt;code&gt;'hi there'&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="variables as pointers example image1" src="https://d2aw5xe2jldque.cloudfront.net/books/ruby/images/variables_pointers1.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above diagram brings us back to the idea that variables point to physical spaces in memory; variables are essentially labels. In the third line &lt;code&gt;a = 'not here'&lt;/code&gt; the variable &lt;code&gt;a&lt;/code&gt; is reassigned to a new place in memory, which is a completely different string from the string that &lt;code&gt;b&lt;/code&gt; is pointing to. The &lt;code&gt;=&lt;/code&gt; operator assigns (or reassigns) variables. Even if the third line read: &lt;code&gt;a = 'hi there'&lt;/code&gt;, &lt;code&gt;a&lt;/code&gt; would point to a different string than &lt;code&gt;b&lt;/code&gt; thanks to the &lt;code&gt;=&lt;/code&gt; operator.&lt;/p&gt;
+
+&lt;p&gt;Example 2:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;a = 'hi there'&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;b = a&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;a &amp;lt;&amp;lt; ', Bob'&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;What is &lt;code&gt;b&lt;/code&gt; in the code above? Why is it different from the first example? What is difference between the &lt;code&gt;=&lt;/code&gt; operator and the &lt;code&gt;&amp;lt;&amp;lt;&lt;/code&gt; operator?&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="variables as pointers example image2" src="https://d2aw5xe2jldque.cloudfront.net/books/ruby/images/variables_pointers2.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;As we can see from the diagram above, the third line did not reassign &lt;code&gt;a&lt;/code&gt;. Instead, &lt;code&gt;a &amp;lt;&amp;lt; ', Bob'&lt;/code&gt; modified the original string that both &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;b&lt;/code&gt; are still pointing to. As a new programmer, it is important to know which operators (methods) mutate the caller. Other data structures can also be mutated by methods. Methods like &lt;code&gt;map!&lt;/code&gt; and &lt;code&gt;uniq!&lt;/code&gt; will mutate arrays. This is a key concept that can help troubleshoot problems that arise when first starting out.&lt;/p&gt;
+
+&lt;p&gt;The examples in this post were taking from the &lt;a href="https://launchschool.com/books/ruby/read/introduction"&gt;LaunchSchool&lt;/a&gt; book.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Hello, World!</title>
+    <link rel="alternate" href="http://blog.url.com/2016/04/20/hello-world.html"/>
+    <id>http://blog.url.com/2016/04/20/hello-world.html</id>
+    <published>2016-04-20T12:10:00-04:00</published>
+    <updated>2016-04-20T12:12:22-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;This is the first post on my new blog. This blog was built using Middleman, Burbon, Bitters, and Neat!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
