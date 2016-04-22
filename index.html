@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="stylesheets/all.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700'
+      rel='stylesheet' type='text/css'>
+
+    <link href="images/favicon.ico" rel="icon" type="image/ico" />
+    <title>Andrew Ratliff</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+  </head>
+  <body>
+
+    <div id="main" role="main">
+      <nav>
+  <ul>
+    <li>
+      <a class="blog-title" href="./">Andrew Ratliff</a>
+    </li>
+  </ul>
+</nav>
+
+      
+<ul>
+    <li>
+      <h3><a href="2016/04/21/variables-as-pointers.html">Variables as Pointers</a></h3>
+      <h5>Apr 21</h5>
+      <p><p>Variables as pointers is the idea that variables point to specific place in memory. This is a concept that I didn't quite grasp when coming out of my boot camp. The best way to fully understand this idea is to take a look at some examples.</p>
+
+<p>Example 1:</p>
+
+<p><code>a = 'hi there'</code></p>
+
+<p><code>b = a</code></p>
+
+<p><code>a = 'not here'</code></p>
+
+<p>What is <code>b</code> in the above code? My first instinct was that <code>b</code> would be the string <code>'not here'</code> because the second line said that <code>b = a</code>. In fact, <code>b</code> is still pointing to the string <code>'hi there'</code>.</p>
+
+<p><img alt="variables as pointers example image1" src="https://d2aw5xe2jldque.cloudfront.net/books/ruby/images/variables_pointers1.jpg" /></p>
+
+<p>The above diagram brings us back to the idea that variables point to physical spaces in memory; variables are essentially labels. In the third line <code>a = 'not here'</code> the variable <code>a</code> is reassigned to a new place in memory, which is a completely different string from the string that <code>b</code> is pointing to. The <code>=</code> operator assigns (or reassigns) variables. Even if the third line read: <code>a = 'hi there'</code>, <code>a</code> would point to a different string than <code>b</code> thanks to the <code>=</code> operator.</p>
+
+<p>Example 2:</p>
+
+<p><code>a = 'hi there'</code></p>
+
+<p><code>b = a</code></p>
+
+<p><code>a &lt;&lt; ', Bob'</code></p>
+
+<p>What is <code>b</code> in the code above? Why is it different from the first example? What is difference between the <code>=</code> operator and the <code>&lt;&lt;</code> operator?</p>
+
+<p><img alt="variables as pointers example image2" src="https://d2aw5xe2jldque.cloudfront.net/books/ruby/images/variables_pointers2.jpg" /></p>
+
+<p>As we can see from the diagram above, the third line did not reassign <code>a</code>. Instead, <code>a &lt;&lt; ', Bob'</code> modified the original string that both <code>a</code> and <code>b</code> are still pointing to. As a new programmer, it is important to know which operators (methods) mutate the caller. Other data structures can also be mutated by methods. Methods like <code>map!</code> and <code>uniq!</code> will mutate arrays. This is a key concept that can help troubleshoot problems that arise when first starting out.</p>
+
+<p>The examples in this post were taking from the <a href="https://launchschool.com/books/ruby/read/introduction">LaunchSchool</a> book.</p>
+</p>
+    </li>
+    <li>
+      <h3><a href="2016/04/20/hello-world.html">Hello, World!</a></h3>
+      <h5>Apr 20</h5>
+      <p><p>This is the first post on my new blog. This blog was built using Middleman, Burbon, Bitters, and Neat!</p>
+</p>
+    </li>
+</ul>
+
+
+      <footer>
+  <ul class="large-column">
+    <li><h5 class="heading">Recent Articles</h5></li>
+    <li>
+      <ol>
+          <li>
+            <a href="2016/04/21/variables-as-pointers.html">Variables as Pointers</a>
+            <span>Apr 21</span>
+          </li>
+          <li>
+            <a href="2016/04/20/hello-world.html">Hello, World!</a>
+            <span>Apr 20</span>
+          </li>
+      </ol>
+    </li>
+  </ul>
+
+  <ul class="small-column">
+    <li><h5 class="heading">Tags</h5></li>
+    <li>
+      <ol>
+          <li><a href="tags/ruby.html">ruby (1)</a></li>
+          <li><a href="tags/variables.html">variables (1)</a></li>
+      </ol>
+    </li>
+  <ul>
+</footer>
+
+    </div>
+
+  </body>
+</html>
