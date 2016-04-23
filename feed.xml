@@ -5,10 +5,71 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-04-21T09:40:00-04:00</updated>
+  <updated>2016-04-22T15:03:00-04:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>How to Deploy a Middleman Project to GitHub Pages Manually</title>
+    <link rel="alternate" href="http://blog.url.com/2016/04/22/deploying-middleman-blog-to-ghpages.html"/>
+    <id>http://blog.url.com/2016/04/22/deploying-middleman-blog-to-ghpages.html</id>
+    <published>2016-04-22T15:03:00-04:00</published>
+    <updated>2016-04-23T16:10:56-04:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I recently decided to create a personal blog using a static site framework called &lt;a href="https://middlemanapp.com/"&gt;Middleman&lt;/a&gt;. Using a couple tutorials, I found it very easy to style and crank out blog posts. I soon ran into trouble though when I tried to deploy my blog to &lt;a href="https://pages.github.com/"&gt;GitHub Pages&lt;/a&gt;. After trying to use a couple different gems (unsuccessfully), I found &lt;a href="https://stackoverflow.com/questions/27680342/how-to-deploy-a-middleman-site-to-github-user-page"&gt;this&lt;/a&gt; post on StackOverflow that had some answers. I have adapted the advice on StackOverflow to deploy my blog as a user website instead of a project website. Below are the steps I used to get my site up and running.&lt;/p&gt;
+
+&lt;p&gt;This tutorial assumes you already have a Middleman blog created on your machine. Check out the &lt;a href="https://middlemanapp.com/basics/blogging/"&gt;Middleman&lt;/a&gt; docs on setting up a blog if you haven't already.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="setup"&gt;Setup&lt;/h2&gt;
+
+&lt;h4 id="configrb"&gt;config.rb&lt;/h4&gt;
+&lt;p&gt;Add the following to your &lt;code&gt;config.rb&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;activate :relative_assets&lt;/code&gt;
+&lt;code&gt;set :relative_links, true&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id="gitignore"&gt;.gitignore&lt;/h4&gt;
+&lt;p&gt;Make sure you are ignoring the build folder by adding the following to your &lt;code&gt;.gitignore&lt;/code&gt; file:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;/build&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id="nojekyll"&gt;.nojekyll&lt;/h4&gt;
+
+&lt;p&gt;Disable the use of the Jekyll preprocessor. Create a blank file name &lt;code&gt;.nojekyll&lt;/code&gt; in the &lt;code&gt;source&lt;/code&gt; directory. You can do this from the root of your project with the &lt;code&gt;touch&lt;/code&gt; command:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;touch source/.nojekyll&lt;/code&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="prepare-repository"&gt;Prepare repository&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Publish project to GitHub as [GitHub username].github.io&lt;/li&gt;
+  &lt;li&gt;From the root of your project execute &lt;code&gt;bundle exec middleman build&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;cd&lt;/code&gt; into the build folder that was created by the previous command.&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;git init .&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;git remote add origin git@github...git&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id="how-to-deploy"&gt;How to deploy&lt;/h2&gt;
+
+&lt;p&gt;This will be your routine every time you want to update your site.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;At the root of the project execute: &lt;code&gt;bundle exec middleman build&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;cd build/&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;git add -A&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;git commit -m "thoughtful commit message"&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code&gt;git push origin master&lt;/code&gt; (if it's the first time pushing your project use &lt;code&gt;git push -u origin master&lt;/code&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
   <entry>
     <title>Variables as Pointers</title>
     <link rel="alternate" href="http://blog.url.com/2016/04/21/variables-as-pointers.html"/>
