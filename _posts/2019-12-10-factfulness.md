@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "_Factfulness_ - Hans Rosling"
 date:   2019-12-10 10:00:00 +0700
 categories: books
