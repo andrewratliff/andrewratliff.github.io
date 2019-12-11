@@ -22,7 +22,7 @@ Using statistics from the World Bank and the United Nations, Dr. Rosling suggest
 
 #### Hans Rosling’s Framework for Looking at the World
 
-| Income Level | Billions of People | Dollars/day |
+| Income Level | Billions of People | Dollar income/day |
 |:---:|:---:|:---:|
 | 1 | 1 | <2 (extreme poverty) |
 | 2 | 3 | 2 - 8 |
