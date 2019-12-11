@@ -10,19 +10,19 @@ talking about race. Hopefully the more we learn and talk about race, the more
 comfortable the topic becomes. Beverly Daniel Tatum is an American educator,
 administrator, clinical psychologist, and author of the 2017 book, _Why Are All
 the Black Kids Sitting Together in the Cafeteria?_ Her book title, she relates,
-is based on the most common question people ask her. Dr. Tatum explains that
+is the most common question people ask her. Dr. Tatum explains that
 Black students in the United States often sit together at lunch because in a
-culture that constantly reminds them of their race, Black students find safety
-and support by sitting with other members of their racial group.
+country that constantly reminds them of their race, Black students find safety
+and support among other members of their racial group.
 
-Dr. Tatum suggests that the more important questions we should be asking
-ourselves are, “What does it mean to be Black? What does it mean to be White?”
-and “What can I do to further dismantle the system of advantage based on race?”
+Dr. Tatum suggests that the more important questions
+are, “What does it mean to be Black? What does it mean to be White?”
+and “What can I do to further dismantle racism?” Dr. Tatum defines racism as a system of advantage based on race
 In the United States today, where White culture is dominant culture, we should
 strive to be race-conscious and recognize that our social system still unfairly
 benefits White people and disadvantages Black people. Progress has definitely
-been made over the years, but if we want to continue to break down the racist
-system, we need to keep working. Here are Dr. Tatum's suggestions:
+been made over the years, but there is still good work we can all do. Here are
+Dr. Tatum's suggestions:
 
 ### Educate
 
@@ -50,7 +50,7 @@ their Whiteness is less meaningful. For example, European Jews, White members of
 the LGBTQ community, or White people who grew up poor, may struggle with the
 idea that they are privileged in any way. It’s important to understand, however,
 that while a White person’s socio-economic class, or any other characteristic,
-may have been disadvantageous to them, their race still systematically benefits
+may be disadvantageous to them, their race still systematically benefits
 them.
 
 Many people occupy a combination of dominant and subordinate statuses. If we
@@ -64,17 +64,19 @@ significance of race overlooks the disparate histories of the races and denies
 that Black people have a different experience in society than White people.
 
 Acknowledging the privileges associated with being White, and the disadvantages
-associated with being Black, is necessary to breaking the cycle of racism.
+associated with being Black, is necessary to breaking the system of advantage
+based on race.
 
 ### Challenge
 
-Discriminatory behavior requires explicit opposition. If we see or hear
-injustice, we must object. When we allow demeaning comments or jokes to go
-unchallenged, for example, our silence serves as collusion.
+Resisting a demeaning comment or joke that a family member, friend, or stranger
+makes can be difficult. Whether an injustice is personal or directed at someone
+else, we may remain silent to avoid friction.
 
-We should all feel confident and obliged to voice resistance when we recognize
-unfairness. One individual speaking up can have powerful effects on norms in
-friend groups, families, schools or workplaces.
+However, discriminatory behavior requires explicit opposition. We should all feel
+confident and obliged to challenge unfairness. One individual speaking up can have
+powerful effects on norms in friend groups, families, schools or workplaces.
+
 
 Listen to Dr. Tatum talk about [_Why Are All the Black Kids Sitting Together in
 the Cafeteria?_](https://www.youtube.com/watch?v=PGZniOuoREU){:target="_blank"}
