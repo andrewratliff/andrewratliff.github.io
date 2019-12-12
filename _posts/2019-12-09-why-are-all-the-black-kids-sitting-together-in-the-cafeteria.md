@@ -17,7 +17,7 @@ and support among other members of their racial group.
 
 Dr. Tatum suggests that the more important questions
 are, “What does it mean to be Black? What does it mean to be White?”
-and “What can I do to further dismantle racism?” Dr. Tatum defines racism as a system of advantage based on race
+and “What can I do to further dismantle racism?” Dr. Tatum defines racism as a system of advantage based on race.
 In the United States today, where White culture is dominant culture, we should
 strive to be race-conscious and recognize that our social system still unfairly
 benefits White people and disadvantages Black people. Progress has definitely
@@ -33,8 +33,7 @@ advertisements.
 
 Because positive images of marginalized groups are not pervasive in mainstream
 culture, people should seek out the voices and work of marginalized group
-members. In order to have a comprehensive understanding of society we must know
-more about all groups.
+members. In order to have a comprehensive understanding of society we must have knowledge about all groups.
 
 ### Reflect
 
