@@ -40,17 +40,7 @@ members. In order to have a comprehensive understanding of society we must have 
 Think about your own identity. Along with race, there are other social
 categories in which people find themselves either in the dominant or subordinate
 status. Class, gender, ability (mental and physical), and religion, are several
-characteristics that affect our experience in society. An individual may be
-targeted by multiple isms - classism, sexism, ableism, anti-Semitism - making
-their marginized experience in society more intense.
-
-White people who identify strongly with another subordinate status may feel that
-their Whiteness is less meaningful. For example, European Jews, White members of
-the LGBTQ community, or White people who grew up poor, may struggle with the
-idea that they are privileged in any way. It’s important to understand, however,
-that while a White person’s socio-economic class, or any other characteristic,
-may be disadvantageous to them, their race still systematically benefits
-them.
+characteristics that affect our experience in society. 
 
 Many people occupy a combination of dominant and subordinate statuses. If we
 draw on our own experiences of subordination, we may be better able to empathize
