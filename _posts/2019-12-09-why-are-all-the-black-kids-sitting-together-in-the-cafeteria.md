@@ -58,13 +58,9 @@ based on race.
 
 ### Challenge
 
-Resisting a demeaning comment or joke that a family member, friend, or stranger
-makes can be difficult. Whether an injustice is personal or directed at someone
-else, we may remain silent to avoid friction.
+Even when we recognize injustice, we may remain silent. Silence serves as agreement though, and perpetuates bad ideas.
 
-However, discriminatory behavior requires explicit opposition. We should all feel
-confident and obliged to challenge unfairness. One individual speaking up can have
-powerful effects on norms in friend groups, families, schools or workplaces.
+We should all feel confident and motivated to challenge unfairness. Everyone can contribute to change in their environment.  
 
 
 Listen to Dr. Tatum talk about [_Why Are All the Black Kids Sitting Together in
