@@ -8,13 +8,12 @@ categories: books
 
 Hans Rosling’s 2018 book, _Factfulness_,
 highlights the obligation we have to base our thinking on facts instead of
-instincts. Dr. Rosling suggests that instincts tend to feed the false idea that the world used to be
-a better place. In fact, many
+instincts. Dr. Rosling suggests that instincts tend to feed the unhelpful feelings of nostalgia and hoplessness. In fact, many
 aspects of life on earth are improving. Here are four of the ten Instincts Dr. Rosling recommends we avoid:
 
 ### The Gap Instinct
 
-We can’t always neatly divide complex realities: Third world/First world, Developing country/Developed country, Them/Us, East/West thinking is no longer relevant.
+The Gap Instinct leads us to understand that there is an "Us," and a "Them," when the reality isn't so binary. Third world/First world, Developing country/Developed country, East/West thinking distorts our understanding of how most people live.
 
 Using statistics from the World Bank and the United Nations, Dr. Rosling suggests a 4 tiered framework based on income level:
 
@@ -27,29 +26,31 @@ Using statistics from the World Bank and the United Nations, Dr. Rosling suggest
 | 3 | 2 | 8 - 32 |
 | 4 | 1 | >32 |
 
-People’s lives are dramatically different on Level 1, 2, and 3. For a person living in extreme poverty on Level 1, the difference of a few more dollars every day is tremendous. However, if you live on Level 4, it is easy to look at everyone on Level 1, 2, and 3, and classify them all as “poor,” without recognizing significant differences. Dr. Rosling argues that the majority of people on earth live on [Level 2 or 3](https://www.gapminder.org/answers/how-many-are-rich-and-how-many-are-poor/){:target="_blank"}, where many educated people assume the “gap” to be.
+People’s lives are dramatically different on Level 1, 2, and 3. For a person living in extreme poverty on Level 1, the difference of a few more dollars every day is tremendous. However, if you live on Level 4, it is easy to look at everyone on Level 1, 2, and 3, and classify them all as “poor,” without recognizing significant differences. Dr. Rosling argues that the majority of people live on [Level 2 or 3](https://www.gapminder.org/answers/how-many-are-rich-and-how-many-are-poor/){:target="_blank"}, where many educated people assume the “gap” exists.
 
 ### The Negativity Instinct
 
-We are more likely to see concerning images, rather than gradual improvements, on the news.
+The Negativity Instinct causes us to worry that everything is bad, and getting worse, despite gradual, and sometimes drastic improvements.
 
-However, many bad realities, like hunger and child labor, are decreasing. In 1800, 85% of humanity lived in extreme poverty, on Level 1. In 2017, only 9% of humanity lived in extreme poverty.
+Many bad realities, like hunger and child labor, are decreasing. In 1800, 85% of humanity lived in extreme poverty, on Level 1. In 2017, only 9% of humanity lived in extreme poverty.
 
 Many good realities, like literacy and vaccinations, are increasing. In 1800, the average life expectancy around the world was 31. In 2017, the average life expectancy around the world was 72.
 
 ### The Straight Line Instinct
 
-Over thousands of years, the human population finally reached about 1 billion people around 1800. It took just 130 more years for another billion people to be added. Then, in less than a 100 more years, another 5 billion were added. The sudden increase in human population is frightening because now we see a line rocketing upwards.
+The Straight Line Instinct allows us to look at world population growth and think that the line will continue on the same, straight trajectory.
 
-While we might worry that the global population is exploding, United Nations population experts report that population growth has already slowed down. In 1965, the average number of babies born per woman was 5. In 2017, the number had dropped to 2.5. UN experts also predict that population growth will flatten out between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
+The United Nations population experts predict that population growth will flatten out between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
 
-[UN global population predictions] are dependent on total fertility and life expectancy at birth. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies surviving.
+However, UN global population predictions are dependent on total fertility and life expectancy at birth. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies surviving.
 
 ### The Destiny Instinct
 
-We shouldn’t ever believe, “that’s just the way it is.” Realities change all the time.
+The Destiny Instinct makes us believe that there are certain innate characteristics that make groups of people succeeed or fail. Thinking, "that's just the way things are," is dangerous because it allows us to consider some cultures more superior than others. 
 
-For example: “The macho values that are found today in many Asian and African countries, these are not Asian values, or African values. They are not Muslim values. They are not Eastern values. They are patriarchal values like those found in Sweden only 60 years ago, and with social and economic progress they will vanish, just as they did in Sweden. They are not unchangeable” (Rosling, 2018, p. 179).
+Cultures have always evolved and will continue to evolve.
+
+In Hans Rosling's words: “The macho values that are found today in many Asian and African countries, these are not Asian values, or African values. They are not Muslim values. They are not Eastern values. They are patriarchal values like those found in Sweden only 60 years ago, and with social and economic progress they will vanish, just as they did in Sweden. They are not unchangeable” (Rosling, 2018, p. 179).
 
 ---
 References
