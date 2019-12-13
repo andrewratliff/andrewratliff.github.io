@@ -41,7 +41,7 @@ Many good realities, like literacy and vaccinations, are increasing. In 1800, th
 
 Over thousands of years, the human population finally reached about 1 billion people around 1800. It took just 130 more years for another billion people to be added. Then, in less than a 100 more years, another 5 billion were added. The sudden increase in human population is frightening because now we see a line rocketing upwards.
 
-While we might worry that the global population is exploding, United Nations population experts report that population growth has already slowed down. In 1965, the average number of babies born per woman was 5. In 2017, the number had dropped to 2.5. UN experts also predict that population growth will flatten out between [10 and 12 billion by 2100] (https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
+While we might worry that the global population is exploding, United Nations population experts report that population growth has already slowed down. In 1965, the average number of babies born per woman was 5. In 2017, the number had dropped to 2.5. UN experts also predict that population growth will flatten out between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
 
 [UN global population predictions] are dependent on total fertility and life expectancy at birth. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies surviving.
 
