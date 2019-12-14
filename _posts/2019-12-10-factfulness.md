@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title:  "_Factfulness_ - Hans Rosling"
 date:   2019-12-10 10:00:00 +0700
 categories: books
@@ -46,7 +45,7 @@ However, UN global population predictions are dependent on total fertility and l
 
 ### The Destiny Instinct
 
-The Destiny Instinct makes us believe that there are certain innate characteristics that make groups of people succeeed or fail. Thinking, "that's just the way things are," is dangerous because it allows us to consider some cultures more superior than others. 
+The Destiny Instinct makes us believe that there are certain innate characteristics that make groups of people succeeed or fail. Thinking, "that's just the way things are," is dangerous because it allows us to consider some cultures more superior than others.
 
 Cultures have always evolved and will continue to evolve.
 
