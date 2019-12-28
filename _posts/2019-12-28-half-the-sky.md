@@ -16,15 +16,15 @@ violence, and maternal mortality.
 
 Ms. WuDunn and Mr. Kristof suggest that the discussion of forced prostitution is
 often distracted by disagreement about prostitution in general. One camp favors
-the legalization and regulation of prostitution among consenting adults, so that
-all parties may benefit from legal protections. Another arguement is that
-prostitution is inherently wrong, and legalization and regulation policies do
-not actually diminish a parallel, illegal buisiness. Ms. WuDunn and Mr. Kristof
+the legalization and regulation of commercial sex among consenting adults, so that
+all parties may benefit from legal protections. Another argument is that
+commercial sex is inherently wrong, and legalization and regulation policies do
+not actually diminish a parallel, illegal business. Ms. WuDunn and Mr. Kristof
 stress that the debate surrounding prostitution impedes action against forced
-prostitution. The authors also share that while they originally thought that
-legalizing and regulating prostitution would be helpful, they have come to
-believe that legalized prostitution does not reduce the numbers of child
-prostitutes or forced prostitutes.
+prostitution. The authors also share that while they originally thought that the
+legalization approach would be helpful, they have come to believe that legalized
+prostitution does not reduce the numbers of child prostitutes or forced
+prostitutes.
 
 To further complicate the discussion around forced prostitution, is the reality
 that the difference between willing prostitution and forced prostitution is not
@@ -34,11 +34,10 @@ dependency on drugs, or made to feel so stigmatized by society, that while they
 are free to leave, a new life doesn’t seem like a realistic option.
 
 The authors suggest that we come away from the debate regarding legal vs.
-illegal prostitution, and willing vs. forced prostition, and focus more on
-creating vocational opportunities for women. To get involved in microfinancing
-women, explore
-[Kiva](https://www.kiva.org/lend-by-category/women){:target="_blank"} or
-[Women’s World Banking](https://www.womensworldbanking.org/){:target="_blank"}.
+illegal prostitution, and willing vs. forced prostitution, and focus more on
+creating vocational opportunities for women. To get involved in micro-financing
+women, explore [Kiva][1]{:target="_blank"} or
+[Women’s World Banking][2]{:target="_blank"}.
 
 ### Gender Based Violence
 
@@ -58,15 +57,15 @@ their wives.
 
 Ms. WuDunn and Mr. Kristof press that education is one of the surest ways to
 help people escape a mindset that subordinates women. They recommend supporting
-[_Campaign for Female Education (CAMFED)_](https://www.creatinghope.org/who-we-are.html){:target="_blank"},
-and the [_Afghan Institute of Learning_](https://camfed.org/){:target="_blank"}.
+[_Campaign for Female Education (CAMFED)_][3]{:target="_blank"},
+and the [_Afghan Institute of Learning_][4]{:target="_blank"}.
 
 ### Maternal Mortality
 
 Maternal mortality ratio (MMR) refers to the number of maternal deaths for every
 100,000 live births. In 1987, the United Nation’s Safe Motherhood Initiative
 endeavored to reduce maternal mortality by 50 percent by the year 2000. Then, in
-2000, the UN set a Millenium Development Goal of reducing maternal mortality by
+2000, the UN set a Millennium Development Goal of reducing maternal mortality by
 75 percent by 2015. Neither goal was met. While childbirth can be dangerous for
 women worldwide, it can be especially lethal to those that can’t receive
 emergency obstetric care such as C-sections.
@@ -79,10 +78,17 @@ between two parts of the body. They are preventable and treatable at low costs.
 
 Ensuring that mothers survive childbirth and thrive after giving birth is the
 priority of several effective organizations such as
-[_Averting Maternal Death_](https://www.mailman.columbia.edu/research/averting-maternal-death-and-disability-amdd){:target="_blank"}
-and [_Disability and Fistula Foundation_](https://www.fistulafoundation.org/){:target="_blank"}.
+[_Averting Maternal Death and Disability_][5]{:target="_blank"} and
+[_Fistula Foundation_][6]{:target="_blank"}.
 
 ---
 References
 
 Kristof, N.D. & WuDunn, S. (2009). _Half the Sky: Turning Oppression into Opportunity for Women Worldwide_. New York, NY: Alfred A. Knopf.
+
+[1]: https://www.kiva.org/lend-by-category/women
+[2]: https://www.womensworldbanking.org/
+[3]: https://camfed.org/
+[4]: https://www.creatinghope.org/who-we-are.html
+[5]: https://www.mailman.columbia.edu/research/averting-maternal-death-and-disability-amdd
+[6]: https://www.fistulafoundation.org/
