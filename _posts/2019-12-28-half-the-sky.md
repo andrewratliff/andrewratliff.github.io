@@ -35,7 +35,7 @@ are free to leave, a new life doesn’t seem like a realistic option.
 
 The authors suggest that we come away from the debate regarding legal vs.
 illegal prostitution, and willing vs. forced prostitution, and focus more on
-creating vocational opportunities for women. To get involved in micro-financing
+creating vocational opportunities for women. To get involved in microfinancing
 women, explore [Kiva][1]{:target="_blank"} or
 [Women’s World Banking][2]{:target="_blank"}.
 
