@@ -58,7 +58,7 @@ based on race.
 
 ### Challenge
 
-Even when we recognize injustice, we may remain silent. Silence serves as agreement though, and perpetuates bad ideas.
+Even when we recognize injustice, we may choose to remain silent. However, silence serves as agreement, and perpetuates bad ideas.
 
 We should all feel confident and motivated to challenge unfairness. Everyone can contribute to change in their environment.  
 
