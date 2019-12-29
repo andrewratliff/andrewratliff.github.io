@@ -19,12 +19,11 @@ often distracted by disagreement about prostitution in general. One camp favors
 the legalization and regulation of commercial sex among consenting adults, so that
 all parties may benefit from legal protections. Another argument is that
 commercial sex is inherently wrong, and legalization and regulation policies do
-not actually diminish a parallel, illegal business. Ms. WuDunn and Mr. Kristof
-stress that the debate surrounding prostitution impedes action against forced
-prostitution. The authors also share that while they originally thought that the
-legalization approach would be helpful, they have come to believe that legalized
-prostitution does not reduce the numbers of child prostitutes or forced
-prostitutes.
+not actually diminish a parallel, illegal business. The authors share that 
+while they originally thought that the legalization approach would be helpful, 
+they have come to believe that legalized prostitution does not reduce the numbers 
+of child prostitutes or forced prostitutes. Ms. WuDunn and Mr. Kristof stress, however, that 
+the debate surrounding prostitution impedes action against forced prostitution. 
 
 To further complicate the discussion around forced prostitution, is the reality
 that the difference between willing prostitution and forced prostitution is not
@@ -35,7 +34,7 @@ are free to leave, a new life doesn’t seem like a realistic option.
 
 The authors suggest that we come away from the debate regarding legal vs.
 illegal prostitution, and willing vs. forced prostitution, and focus more on
-creating vocational opportunities for women. To get involved in microfinancing
+creating vocational opportunities for women. To get involved in microfinance for
 women, explore [Kiva][1]{:target="_blank"} or
 [Women’s World Banking][2]{:target="_blank"}.
 
@@ -46,7 +45,7 @@ violence that is directed at them specifically because of their gender. For
 example, research suggests that girl fetuses are disproportionately aborted.
 When resources become less abundant for families, girl children often receive
 less medical attention, food, and education compared to their brothers. Women
-also continue to endure honor killings, genital cutting, and systematic rape.
+also continue to suffer honor killings, genital cutting, and systematic rape.
 
 The authors point out that both men and women internalize and reproduce the
 misogynistic values that create cultures of violence against women. Mothers
