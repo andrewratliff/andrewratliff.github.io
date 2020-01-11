@@ -15,12 +15,12 @@ violence, and maternal mortality.
 ### Forced Prostitution
 
 Ms. WuDunn and Mr. Kristof suggest that the discussion of forced prostitution is
-often distracted by disagreement about prostitution in general. One camp favors
-the legalization and regulation of commercial sex among consenting adults, so that
+often distracted by disagreement about prostitution in general. One strategy is to
+legalize and regulate commercial sex among consenting adults, so that
 all parties may benefit from legal protections. Another argument is that
 commercial sex is inherently wrong, and legalization and regulation policies do
 not actually diminish a parallel, illegal business. The authors share that 
-while they originally thought that the legalization approach would be helpful, 
+while they originally thought that the legalization and regulation of sex work would be helpful, 
 they have come to believe that legalized prostitution does not reduce the numbers 
 of child prostitutes or forced prostitutes. Ms. WuDunn and Mr. Kristof stress, however, that 
 the debate surrounding prostitution impedes action against forced prostitution. 
@@ -41,9 +41,8 @@ women, explore [Kiva][1]{:target="_blank"} or
 ### Gender Based Violence
 
 _Half the Sky_ highlights the many ways in which girls and women experience
-violence that is directed at them specifically because of their gender. For
-example, research suggests that girl fetuses are disproportionately aborted.
-When resources become less abundant for families, girl children often receive
+violence that is directed at them specifically because of their gender. Research suggests that with the advancement of ultrasound technology, people began to abort female fetuses more often than male fetuses. When 
+resources diminish for families, girl children tend to receive
 less medical attention, food, and education compared to their brothers. Women
 also continue to suffer honor killings, genital cutting, and systematic rape.
 
@@ -61,7 +60,7 @@ and the [_Afghan Institute of Learning_][4]{:target="_blank"}.
 
 ### Maternal Mortality
 
-Maternal mortality ratio (MMR) refers to the number of maternal deaths for every
+Maternal mortality ratio (MMR) indicates the number of maternal deaths for every
 100,000 live births. In 1987, the United Nation’s Safe Motherhood Initiative
 endeavored to reduce maternal mortality by 50 percent by the year 2000. Then, in
 2000, the UN set a Millennium Development Goal of reducing maternal mortality by
@@ -72,8 +71,9 @@ emergency obstetric care such as C-sections.
 Maternal morbidity refers to injuries a mother sustains during pregnancy or
 childbirth. For every woman that dies in childbirth, there are far more that
 suffer significant injuries. Obstructed labor and lack of medical care during
-childbirth can cause fistulas, for example. A fistula is an abnormal connection
-between two parts of the body. They are preventable and treatable at low costs.
+childbirth can cause fistulas, for example. Fistulas are abnormal connections
+between two parts of the body, and can cause death or lifelong problems for new mothers.
+Fistulas are preventable and treatable at low costs.
 
 Ensuring that mothers survive childbirth and thrive after giving birth is the
 priority of several effective organizations such as
