@@ -27,13 +27,13 @@ Dr. Tatum's suggestions:
 ### Educate
 
 Stereotypes about marginalized groups are often based not on what people know,
-but what people don’t know. Black figures, literature, and art, for example, are
+but what people don’t know. Literature and art created by Black people, for example, are
 underrepresented in parts of our society such as curricula, entertainment, and
 advertisements.
 
 Because positive images of marginalized groups are not pervasive in mainstream
 culture, people should seek out the voices and work of marginalized group
-members. In order to have a comprehensive understanding of society we must have knowledge about all groups.
+members. Exposure to different perspectives helps us better understand society as a whole.
 
 ### Reflect
 
@@ -48,7 +48,7 @@ with another targeted group’s experience.
 
 ### Acknowledge
 
-We shouldn’t try to be “color-blind.” A perspective that doesn’t recognize the
+We shouldn’t try to be “color-blind.” An approach that doesn’t recognize the
 significance of race overlooks the disparate histories of the races and denies
 that Black people have a different experience in society than White people.
 
