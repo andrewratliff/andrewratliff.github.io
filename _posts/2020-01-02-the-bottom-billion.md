@@ -43,14 +43,14 @@ Citizens of countries that import natural resources can help put pressure on
 resource-rich country leaders to adopt international transparency standards
 regarding their natural resource industry (a natural resource charter). The
 public should be aware of how resource extraction contracts are awarded, how
-much money the government is making, and how the government is spending that
+much money the government makes, and how the government spends that
 money.
 
 ### Landlocked with Bad Neighbors Trap
 
 Being landlocked with bad neighbors greatly affects a country’s ability to
-trade. A landlocked country depends on its neighbors’ roads and ports to engage
-in international trade. If the landlocked country has coastal neighbors with
+trade. A landlocked country depends on its coastal neighbors’ roads and ports to engage
+in international trade. If the landlocked country has neighbors with
 poor transportation infrastructure, exportation of primary and manufactured
 products becomes expensive. A landlocked country could also trade with its
 neighbors, but if neighboring countries are experiencing, for example,
@@ -60,7 +60,7 @@ problematic.
 Professor Collier claims that in the 1990s, aid agencies began focusing more on
 health, education, the environment, and country specific projects. The private
 sector did not pick up the funding for roads from landlocked to coastal
-countries. Roads would help. For countries of the Sahel close to Europe, air
+countries. Reliable, overland thoroughfares remain fundamental. For countries of the Sahel close to Europe, air
 freight could also be an option. With more education and information
 infrastructure, the bottom billion could potentially break into global markets
 with information services.
