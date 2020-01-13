@@ -78,7 +78,7 @@ imports.
 
 Professor Collier believes that bad governance demands a charter for democracy,
 defined not simply by elections, but how campaign money is raised and spent
-before and election, and how power is checked and balanced after an election.
+before an election, and how power is checked and balanced after an election.
 Professor Collier also trusts that once a country is truly committed to reform,
 donors could begin to help by sending temporary, skilled workers (technical
 assistance). OECD member countries must realize that trade policy negotiation
