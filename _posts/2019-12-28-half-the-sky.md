@@ -26,7 +26,7 @@ of child prostitutes or forced prostitutes. Ms. WuDunn and Mr. Kristof stress, h
 the debate surrounding prostitution impedes action against forced prostitution. 
 
 To further complicate the discussion around forced prostitution, is the reality
-that the difference between willing prostitution and forced prostitution is not
+that the difference between forced and willing prostitution is not
 always clear. Consider adult women who seem to be volitional sex workers. The
 women may have been coerced in to sex work as children, forced to develop a
 dependency on drugs, or made to feel so stigmatized by society, that while they
@@ -34,16 +34,15 @@ are free to leave, a new life doesn’t seem like a realistic option.
 
 The authors suggest that we come away from the debate regarding legal vs.
 illegal prostitution, and willing vs. forced prostitution, and focus more on
-creating vocational opportunities for women. To get involved in microfinance for
+creating vocational opportunities for women. To learn more about microfinance for
 women, explore [Kiva][1]{:target="_blank"} or
 [Women’s World Banking][2]{:target="_blank"}.
 
 ### Gender Based Violence
 
 _Half the Sky_ highlights the many ways in which girls and women experience
-violence that is directed at them specifically because of their gender. Research suggests that with the advancement of ultrasound technology, people began to abort female fetuses more often than male fetuses. When 
-resources diminish for families, girl children tend to receive
-less medical attention, food, and education compared to their brothers. Women
+violence that is directed at them specifically because of their gender. Research suggests that with the advancement of ultrasound technology, people began to abort female fetuses more often than male fetuses. Girl children tend to receive
+less medical attention, food, and education compared to their brothers when resources diminish in a family. Women
 also continue to suffer honor killings, genital cutting, and systematic rape.
 
 The authors point out that both men and women internalize and reproduce the
