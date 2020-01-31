@@ -4,7 +4,7 @@ title: "_Development as Freedom_ - Amartya Sen"
 categories: books
 ---
 
-In his work, Development as Freedom (1999), Dr. Amartya Sen discusses various freedoms that enable people to live their lives to the fullest. Dr. Sen, winner of the 1998 Nobel Prize in Economics, views the expansion of individual freedoms, or capabilities, as both the means and ends of development. Thus, an understanding of development must go beyond economic growth and income-related variables. Dr. Sen highlights health care and education, democracy, and gender equality as freedoms that people have reason to enjoy, and that support a strong economy.
+In his work, _Development as Freedom_ (1999), Dr. Amartya Sen discusses various freedoms that enable people to live their lives to the fullest. Dr. Sen, winner of the 1998 Nobel Prize in Economics, views the expansion of individual freedoms, or capabilities, as both the means and ends of development. Thus, an understanding of development must go beyond economic growth and income-related variables. Dr. Sen highlights health care and education, democracy, and gender equality as freedoms that people have reason to enjoy, and that support a strong economy.
 
 ### Health Care and Education
 
