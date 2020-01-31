@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "_Development as Freedom_ - Paul Farmer"
+title: "_Development as Freedom_ - Amartya Sen"
 categories: books
 ---
 
