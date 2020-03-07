@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Purpose: to promote learning and conversation about realities that individuals around the world have the power to affect.
