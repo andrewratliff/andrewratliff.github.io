@@ -4,7 +4,7 @@ title: "_The Mystery of Capital_ - Hernando de Soto"
 categories: books
 ---
 
-According to Peruvian economist Hernando de Soto, capitalism fails in many developing and former communist countries as a result of unsatisfactory formal property systems. Mr. De Soto’s book, _The Mystery of Capital_ (2000), explains that if we want capitalism to work around the world, assets such as homes and businesses must be legally documented, and incorporated into the legal economy. Legal reform must make entrance into the legal economy feasible for the majority of the world’s population.
+According to Peruvian economist Hernando de Soto, capitalism fails in many developing and former communist countries as a result of unsatisfactory formal property systems. Mr. De Soto’s book, _The Mystery of Capital_ (2000), explains that if we want capitalism to work around the world, assets such as homes and businesses must be officially documented, and incorporated into the formal economy. Legal reform must make entrance into the formal economy feasible for the majority of the world’s population.
 
 # Benefits for the Individual
 
