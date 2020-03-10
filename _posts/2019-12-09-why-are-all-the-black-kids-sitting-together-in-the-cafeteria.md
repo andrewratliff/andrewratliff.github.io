@@ -41,9 +41,9 @@ Think about your own identity. Along with race, there are other social
 categories in which people find themselves either advantaged or disadvantaged. Gender, socioeconomic status, sexual orientation, ability (intellectual and physical), and religion, are several
 characteristics that affect our experience in society. 
 
-Many people occupy a combination of dominant and subordinated statuses. If we
-draw on our own experiences of subordination, we may be better able to empathize
-with another social group’s reality.
+Many people occupy a combination of dominant and nondominant statuses. If we
+draw on our own experiences of feeling like the "other," we may be better able to empathize
+with another nondominant group’s reality.
 
 ### Acknowledge
 
