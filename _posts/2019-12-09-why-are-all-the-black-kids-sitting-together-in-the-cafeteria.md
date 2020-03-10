@@ -38,7 +38,7 @@ members. Exposure to different perspectives helps us better understand society a
 ### Reflect
 
 Think about your own identity. Along with race, there are other social
-categories in which people find themselves either advantaged or disadvantaged. Gender, socioeconomic status, sexual orientation, ability (mental and physical), and religion, are several
+categories in which people find themselves either advantaged or disadvantaged. Gender, socioeconomic status, sexual orientation, ability (intellectual and physical), and religion, are several
 characteristics that affect our experience in society. 
 
 Many people occupy a combination of dominant and subordinated statuses. If we
