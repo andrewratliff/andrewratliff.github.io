@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "_The Bottom Billion_ - Paul Collier"
+title: _The Bottom Billion_
+book_author: Paul Collier
 categories: books
+image: the_bottom_billion.jpg
 ---
 
 British development economist Paul Collier draws attention to the needs of the

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "_Pathologies of Power_ - Paul Farmer"
+title: _Pathologies of Power_
+book_author: Paul Farmer
 categories: books
+image: pathologies_of_power.jpg
 ---
 ### Paul Farmer’s Mission
 

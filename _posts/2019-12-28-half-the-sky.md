@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "_Half the Sky_ - Sheryl WuDunn and Nicholas Kristof"
+title: _Half the Sky_
+book_author: Sheryl WuDunn and Nicholas Kristof
 categories: books
+image: half_the_sky.jpg
 ---
 
 Pulitzer Prize winners Sheryl WuDunn and Nicholas Kristof champion gender
@@ -19,11 +21,11 @@ often distracted by disagreement about prostitution in general. One strategy is 
 legalize and regulate commercial sex among consenting adults, so that
 all parties may benefit from legal protections. Another argument is that
 commercial sex is inherently wrong, and legalization and regulation policies do
-not actually diminish a parallel, illegal business. The authors share that 
-while they originally thought that the legalization and regulation of sex work would be helpful, 
-they have come to believe that legalized prostitution does not reduce the numbers 
-of child prostitutes or forced prostitutes. Ms. WuDunn and Mr. Kristof stress, however, that 
-the debate surrounding prostitution impedes action against forced prostitution. 
+not actually diminish a parallel, illegal business. The authors share that
+while they originally thought that the legalization and regulation of sex work would be helpful,
+they have come to believe that legalized prostitution does not reduce the numbers
+of child prostitutes or forced prostitutes. Ms. WuDunn and Mr. Kristof stress, however, that
+the debate surrounding prostitution impedes action against forced prostitution.
 
 To further complicate the discussion around forced prostitution, is the reality
 that the difference between forced and willing prostitution is not

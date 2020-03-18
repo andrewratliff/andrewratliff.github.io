@@ -10,25 +10,28 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <li>
+          <img class="cover" src="{{ site.baseurl }}/assets/images/{{ post.image }}"/>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape | markdownify | remove: '<p>' | remove: '</p>'}}
+            <h3>
+              {{ post.title | escape | markdownify | remove: '<p>' | remove: '</p>'}}
+            </h3>
+            <h4>
+              {{ post.book_author | escape | markdownify | remove: '<p>' | remove: '</p>'}}
+            </h4>
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
+          {%- if site.show_excerpts -%}
           {{ post.excerpt }}
-        {%- endif -%}
-      </li>
+          {%- endif -%}
+        </li>
       {%- endfor -%}
     </ul>
 
     <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
   {%- endif -%}
 
-</div>
+</div

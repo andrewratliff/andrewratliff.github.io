@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "_Why Are All the Black Kids Sitting Together in the Cafeteria?_ - Beverly Daniel Tatum"
+title:  _Why Are All the Black Kids Sitting Together in the Cafeteria?_
+book_author: Beverly Daniel Tatum
 date:   2019-12-09 17:17:11 +0700
 categories: books
+image: why_are_all_the_black_kids.jpg
 ---
 
 The question may be uncomfortable because most of us don’t have enough practice
@@ -39,7 +41,7 @@ members. Exposure to different perspectives helps us better understand society a
 
 Think about your own identity. Along with race, there are other social
 categories in which people find themselves either advantaged or disadvantaged. Gender, socioeconomic status, sexual orientation, ability (intellectual and physical), and religion, are several
-characteristics that affect our experience in society. 
+characteristics that affect our experience in society.
 
 Many people occupy a combination of dominant and nondominant statuses. If we
 draw on our own experiences of feeling like the "other," we may be better able to empathize
@@ -59,7 +61,7 @@ based on race.
 
 Even when we recognize injustice, we may choose to remain silent. However, silence serves as agreement, and perpetuates bad ideas.
 
-We should all feel confident and motivated to challenge unfairness. Everyone can contribute to change in their environment.  
+We should all feel confident and motivated to challenge unfairness. Everyone can contribute to change in their environment.
 
 
 Listen to Dr. Tatum talk about [_Why Are All the Black Kids Sitting Together in
