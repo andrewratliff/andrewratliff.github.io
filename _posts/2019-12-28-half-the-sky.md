@@ -21,10 +21,10 @@ often distracted by disagreement about prostitution in general. One strategy is 
 legalize and regulate commercial sex among consenting adults, so that
 all parties may benefit from legal protections. Another argument is that
 commercial sex is inherently wrong, and legalization and regulation policies do
-not actually diminish a parallel, illegal business. The authors share that
+not actually diminish a parallel, illegal industry. The authors share that
 while they originally thought that the legalization and regulation of sex work would be helpful,
 they have come to believe that legalized prostitution does not reduce the numbers
-of child prostitutes or forced prostitutes. Ms. WuDunn and Mr. Kristof stress, however, that
+of exploited children or adults. Ms. WuDunn and Mr. Kristof stress, however, that
 the debate surrounding prostitution impedes action against forced prostitution.
 
 To further complicate the discussion around forced prostitution, is the reality
