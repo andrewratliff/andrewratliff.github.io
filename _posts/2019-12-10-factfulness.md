@@ -35,7 +35,7 @@ The Negativity Instinct causes us to worry that everything is bad, and getting w
 
 Many bad realities, like hunger, child labor, and extreme poverty are decreasing. From 1800 to 2017, extreme poverty around the world decreased from 85 percent to 9 percent.
 
-Many good realities, like literacy, vaccinations, and life expectancy are increasing. From 1800 to 2017, the average life expectancy around the world rose from 31 to 72.
+Many good realities, like literacy, vaccinations, and life expectancy are increasing. From 1800 to 2017, the average life expectancy around the world rose from 31 years to 72 years.
 
 ### The Straight Line Instinct
 
@@ -45,7 +45,7 @@ However, UN global population predictions are dependent on life expectancy at bi
 
 ### The Destiny Instinct
 
-The Destiny Instinct makes us falsely believe that there are certain innate characteristics that make groups of people succeed or fail. Thinking, "that's just the way things are," is dangerous because it allows us to consider some cultures more superior than others.
+The Destiny Instinct makes us falsely believe that there are certain innate characteristics that determine which groups of people succeed or fail. Thinking, "that's just the way things are," is dangerous because it allows us to consider some cultures inherently more superior than others.
 
 Cultures have always evolved and will continue to evolve. In Hans Rosling's words: “The macho values that are found today in many Asian and African countries, these are not Asian values, or African values. They are not Muslim values. They are not Eastern values. They are patriarchal values like those found in Sweden only 60 years ago, and with social and economic progress they will vanish, just as they did in Sweden. They are not unchangeable” (Rosling, 2018, p. 179).
 
