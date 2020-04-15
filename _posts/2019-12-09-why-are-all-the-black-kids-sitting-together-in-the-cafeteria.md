@@ -8,7 +8,7 @@ image: why_are_all_the_black_kids.jpg
 ---
 
 The question may be uncomfortable because most of us don’t have enough practice
-talking about race. Hopefully the more we learn and talk about race, the more
+talking about race. The more we learn and talk about race, the more
 comfortable the topic becomes. Beverly Daniel Tatum is an American educator,
 administrator, clinical psychologist, and author of the 2017 book, _Why Are All
 the Black Kids Sitting Together in the Cafeteria?_ Her book title, she relates,
