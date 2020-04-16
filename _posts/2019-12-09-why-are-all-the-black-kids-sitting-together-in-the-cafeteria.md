@@ -65,7 +65,7 @@ We should all feel confident and motivated to challenge unfairness. Everyone can
 
 
 Listen to Dr. Tatum talk about [_Why Are All the Black Kids Sitting Together in
-the Cafeteria?_](https://www.youtube.com/watch?v=PGZniOuoREU){:target="_blank"}
+the Cafeteria?_](https://www.chicagohumanities.org/media/beverly-daniel-tatum-why-are-all-black-kids-sitting-together-cafeteria/){:target="_blank"}
 
 ---
 References
