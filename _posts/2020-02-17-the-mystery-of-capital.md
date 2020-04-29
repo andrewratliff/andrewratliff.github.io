@@ -32,6 +32,6 @@ Hernando de Soto’s [Institute for Liberty and Democracy][1]{:target="_blank"} 
 References
 
 De Soto, H. (2000). _The mystery of capital: Why capitalism triumphs in the west
-and fails everywhere else_. New York, NY: Basic Books.
+and fails everywhere else_. Basic Books.
 
 [1]: https://www.ild.org.pe/
