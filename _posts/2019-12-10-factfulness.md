@@ -52,4 +52,4 @@ Cultures have always evolved and will continue to evolve. In Hans Rosling's word
 ---
 References
 
-Rosling, H. (2018). _Factfulness: Ten reasons we’re wrong about the world - and why things are better than you think_. New York, NY: Flatiron Books.
+Rosling, H. (2018). _Factfulness: Ten reasons we’re wrong about the world - and why things are better than you think_. Flatiron Books.
