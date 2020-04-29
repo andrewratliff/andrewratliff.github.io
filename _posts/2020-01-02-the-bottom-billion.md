@@ -94,4 +94,4 @@ export diversification and global opportunities for bottom billion countries.
 References
 
 Collier, P. (2007). _The bottom billion: Why the poorest countries are failing
-and what can be done about it_. New York, NY: Oxford University Press.
+and what can be done about it_. Oxford University Press.
