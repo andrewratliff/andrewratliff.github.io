@@ -71,4 +71,4 @@ the Cafeteria?_](https://www.chicagohumanities.org/media/beverly-daniel-tatum-wh
 References
 
 Tatum, B.D. (2017). _Why are all the black kids sitting together in the
-cafeteria: And other conversations about race._ New York, NY: Basic Books.
+cafeteria: And other conversations about race._ Basic Books.
