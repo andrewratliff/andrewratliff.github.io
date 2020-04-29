@@ -37,7 +37,7 @@ In the community, one way for women to exercise their free choice is through the
 ---
 References
 
-Sen, A. (1999). _Development as freedom_. New York, NY: Oxford University Press.
+Sen, A. (1999). _Development as freedom_. Oxford University Press.
 
 [1]: https://www.sas.upenn.edu/~dludden/GenderInequalityMissingWomen.pdf
 [2]: http://www.grameen.com/
