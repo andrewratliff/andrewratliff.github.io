@@ -27,7 +27,7 @@ _Pathologies of Power_ highlights the injustice of MDRTB in 2003, but in 2020, t
 References
 
 Farmer, P. (2003). _Pathologies of power: Health, human rights, and the new war
-on the poor_. Berkeley, CA: University of California Press.
+on the poor_. University of California Press.
 
 [1]: https://www.britannica.com/topic/liberation-theology
 [2]: https://www.pih.org/pages/our-mission
