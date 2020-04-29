@@ -84,7 +84,7 @@ priority of several effective organizations such as
 ---
 References
 
-Kristof, N.D., & WuDunn, S. (2009). _Half the sky: Turning oppression into opportunity for women worldwide_. New York, NY: Alfred A. Knopf.
+Kristof, N.D., & WuDunn, S. (2009). _Half the sky: Turning oppression into opportunity for women worldwide_. Alfred A. Knopf.
 
 [1]: https://www.kiva.org/lend-by-category/women
 [2]: https://www.womensworldbanking.org/
