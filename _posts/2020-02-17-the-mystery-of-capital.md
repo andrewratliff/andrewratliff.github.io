@@ -14,7 +14,7 @@ According to Peruvian economist Hernando de Soto, capitalism fails in many devel
 
 Contrary to popular belief, Mr. De Soto argues, the poor do have assets. Many governments simply do not have the necessary frameworks in place for people to easily obtain, and keep, official registration of their assets. Property without legal representation, such as a house without a title, or a business without a license or patent rights, becomes dead capital incapable of producing additional value.
 
-Capitalism functions properly in places where people’s assets are legally defined. A clear, legal status brings an asset to life beyond the physical world, and allows people to expand their economic interactions from business solely with people they know to a wider market. For example, with officially recognized collateral, people can obtain loans from banks.
+Capitalism functions properly in places where people’s assets are legally defined. A clear, legal status brings an asset to life beyond the physical world, and allows people to expand their economic interactions from solely with people they know, to a wider market. For example, with officially recognized collateral, people can obtain loans from banks.
 
 # Benefits for the Community
 
