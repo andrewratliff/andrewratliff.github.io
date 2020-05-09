@@ -42,8 +42,8 @@ democracy. He argues that natural resource surpluses inflate the public sector,
 corrupt election practices, and most importantly, weaken political restraints.
 
 Citizens of countries that import natural resources can help put pressure on
-resource-rich country leaders to adopt international transparency standards
-regarding their natural resource industry (a natural resource charter). The
+resource-rich country leaders to adopt international transparency standards (a natural resource charter),
+regarding their natural resource industry. The
 public should be aware of how resource extraction contracts are awarded, how
 much money the government makes, and how the government spends that
 money.
