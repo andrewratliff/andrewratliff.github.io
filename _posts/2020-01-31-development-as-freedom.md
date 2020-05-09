@@ -31,7 +31,7 @@ In parts of Asia and North Africa, men tend to outnumber women. Dr. Sen points o
 Dr. Sen argues that anti-female bias erodes when women are educated and employed.
 When women are perceived as capable of more than child bearing and rearing, they wield more influence on their families and communities. On the family level, educated women are more likely to have children that survive, and have fewer children.
 
-In the community, one way for women to exercise their free choice is through their employment. The [Grameen Bank][2]{:target="_blank"}, founded by Muhammad Yunus in Bangladesh, makes a special effort to provide microcredit to women borrowers. While women and men should be able to gain employment outside the home, both men and women should be able share unpaid work in the home. Women should not be double burdened by full-time work outside the home and completion of all of the housework.
+In the community, one way for women to exercise their free choice is through their employment. The [Grameen Bank][2]{:target="_blank"}, founded by Muhammad Yunus in Bangladesh, makes a special effort to provide microcredit to women borrowers. While women and men should be able to gain employment outside the home, both men and women should be able to share unpaid work in the home. Women should not be double burdened by full-time work outside the home and completion of all of the housework.
 
 
 ---
