@@ -21,7 +21,7 @@ history of racism.
 Mr. Coates warns his son that black people are not afforded the same tolerance
 as white people when they make mistakes - whether those mistakes are real or
 imagined. He writes, “...the price of error is higher for you than it is for
-your countrymen...our errors always cost us more” (pp. 95 -96). Mr. Coates cites
+your countrymen...our errors always cost us more” (pp. 95-96). Mr. Coates cites
 the 2012 death of seventeen-year-old Trayvon Martin, who was murdered by George
 Zimmerman in Florida, and the 2014 passing of twelve-year-old Tamir Rice, who
 was shot by a police officer in an Ohio park. He names Renisha McBride, a woman
