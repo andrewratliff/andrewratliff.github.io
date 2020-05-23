@@ -1,5 +1,6 @@
 .post-list li {
   overflow: hidden;
+  width: 350px;
 }
 
 .cover {
@@ -15,4 +16,14 @@ blockquote {
   border: none;
   letter-spacing: 0;
   font-size: 1rem;
+}
+
+.post-list {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.wrapper {
+  max-width: 1200px;
 }
