@@ -40,7 +40,7 @@ individual, without constraints. He tells his son, “You are growing into
 consciousness, and my wish for you is that you feel no need to constrict
 yourself to make other people comfortable” (p. 107). Mr. Coates is grateful when
 the mother of a murdered black boy reinforces, more specifically, Mr. Coates’s
-own feelings. She tells Mr. Coates’s son:
+own feelings. She stresses to Mr. Coates’s son:
 
 > You exist. You matter. You have value. You have every right to wear your
 > hoodie, to play your music as loud as you want. You have every right to be
