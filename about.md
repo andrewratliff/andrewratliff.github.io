@@ -16,8 +16,8 @@ A reading response is a way for me to reflect on the text. With non-fiction
 texts, I often simply summarize or focus on a few main points. Reading responses
 get me thinking and writing, and help me remember what I learned. I refer to
 Purdue University’s [Online Writing Lab][1]{:target="_blank"} to help me
-properly cite my work. I like to use the [APA Formatting and Style Guide][2]{:target="_blank"}
-to [cite the references and quotations][3]{:target="_blank"} that I use.
+properly cite my work. I like to use the APA Formatting and Style Guide
+to cite the [references][2]{:target="_blank"} and [quotations][3]{:target="_blank"} that I use.
 
 I would love to read any reading responses you have for books that are
 meaningful to you!
