@@ -103,4 +103,4 @@ Based on more physical descriptions of Olan, Lotus, and Pear Blossom in the char
 
 References
 
-Buck, P.S. (2012). _The good earth_. Open Road Integrated Media, Inc.
+Buck, P.S. (2012). _The Good Earth_. Open Road Integrated Media, Inc.
