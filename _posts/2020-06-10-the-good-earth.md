@@ -42,12 +42,12 @@ Do you think women in the 21st century feel pressure to look young?
 
 Do you think a person’s appearance affects how you treat the person?
 
-Based on more physical descriptions of Olan, Lotus, and Pear Blossom in the chart below, do you see any other qualities, besides youth, that Wang Lung considers beautiful?
+Based on more physical descriptions of O-lan, Lotus, and Pear Blossom in the chart below, do you see any other qualities, besides youth, that Wang Lung considers beautiful?
 
 
 <table>
   <tr>
-   <td colspan="3" >Physical Descriptions of Olan, Lotus, and Pear Blossom
+   <td colspan="3" >Physical Descriptions of O-lan, Lotus, and Pear Blossom
    </td>
   </tr>
   <tr>
