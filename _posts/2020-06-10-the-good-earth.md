@@ -32,7 +32,7 @@ Lotus’s fine bones, and small hands and feet, fit Wang Lung’s understanding 
 Wang Lung buys a girl, Pear Blossom, when she is about seven years old, to serve Lotus. When Wang Lung is almost seventy, and Pear Blossom not yet eighteen, Wang Lung takes Pear Blossom as another mistress:
 
 
-> ...He was ashamed, and yet half proud too, as one feels himself who is still lusty and a man when others hold him to be only grandfather...Pear Blossom sat silently on the other side of the table from him, and her hands were folded and quiet in her lap. Sometimes she looked at Wang Lung, fully and without coquetry as a child does, and he watched her and was proud of what he had done (pp.202-203).
+> ...He was ashamed, and yet half proud too, as one feels himself who is still lusty and a man when others hold him to be only grandfather...Pear Blossom sat silently on the other side of the table from him, and her hands were folded and quiet in her lap. Sometimes she looked at Wang Lung, fully and without coquetry as a child does, and he watched her and was proud of what he had done (pp. 202-203).
 
 Pear Blossom’s girlishness attracts Wang Lung, and he appreciates how innocently she defers to him. Her youthful beauty, he feels, reflects well on him, and is a source of pride. Although she is bought as a slave, her appearance saves her from doing any hard work, “...because she was delicate always they had petted her and allowed her only...to do the lesser things…” (pp. 191-192). When she becomes a teenager, Wang Lung “watched the maid incessantly as she came and went and without his knowing it the thought of her filled his mind and he doted on her” (p. 119). Wang Lung naturally affords Pear Blossom attention and generosity because her features endear her to him.
 
@@ -63,7 +63,7 @@ Based on more physical descriptions of O-lan, Lotus, and Pear Blossom in the cha
    </td>
    <td>“...one most beautiful, a small, slender thing, a body light as a bamboo and a little face as pointed as a kitten’s face...hand as delicate as the tendril of a fern uncurled” (p. 103).
    </td>
-   <td>“Now this pale slave was called Pear Blossom and the one Wang Lung had bought in a famine year when she was small and piteous and half-starved...” (p.192).
+   <td>“Now this pale slave was called Pear Blossom and the one Wang Lung had bought in a famine year when she was small and piteous and half-starved...” (p. 192).
    </td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ Based on more physical descriptions of O-lan, Lotus, and Pear Blossom in the cha
    </td>
    <td>“...[Wang Lung] saw [Lotus’s] round eyes, the shape of apricots, so that now at last he understood what the story-tellers meant when they sang of the apricot eyes of the beauties of old” (p. 106).
    </td>
-   <td>“...he was satisfied to feel her light youth against his heavy old flesh...” (p.201).
+   <td>“...he was satisfied to feel her light youth against his heavy old flesh...” (p. 201).
    </td>
   </tr>
   <tr>
