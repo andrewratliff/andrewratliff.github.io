@@ -53,7 +53,7 @@ We shouldn’t try to be “color-blind.” An approach that doesn’t recognize
 significance of race overlooks the disparate histories of the races and denies
 that Black people have a different experience in society than White people.
 
-Acknowledging the privileges associated with being White, and the disadvantages
+Acknowledgement of the privileges associated with being White, and the disadvantages
 associated with being Black, is necessary to breaking the system of advantage
 based on race.
 
