@@ -18,7 +18,7 @@ The Gap Instinct leads us to understand that there is an "Us," and a "Them," whe
 
 Dr. Rosling uses statistics from the World Bank and the United Nations, and proffers a 4 tiered framework of income level:
 
-#### Hans Rosling’s Framework for Looking at the World
+#### Hans Rosling’s Framework to Look at the World
 
 | Income Level | Billions of People | Dollar income/day |
 |:---:|:---:|:---:|
