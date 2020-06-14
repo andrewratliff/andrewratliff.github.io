@@ -8,19 +8,19 @@ image: the_mystery_of_capital.jpg
 
 # Necessity of Property Rights
 
-According to Peruvian economist Hernando de Soto, capitalism fails in many developing and former communist countries as a result of unsatisfactory formal property systems. Mr. De Soto’s book, _The Mystery of Capital_ (2000), explains that if we want capitalism to work around the world, assets such as homes and businesses must be officially documented, and incorporated into the formal economy. Legal reform must make entrance into the formal economy feasible for the majority of the world’s population.
+According to Peruvian economist, Hernando de Soto, capitalism fails in many developing and former communist countries as a result of unsatisfactory formal property systems. Mr. De Soto’s book, _The Mystery of Capital_ (2000), explains that if we want capitalism to work around the world, we must officially document assets such as homes and businesses. Legal reform must make entrance into the formal economy feasible for the majority of the world’s population.
 
 # Benefits for the Individual
 
 Contrary to popular belief, Mr. De Soto argues, the poor do have assets. Many governments simply do not have the necessary frameworks in place for people to easily obtain, and keep, official registration of their assets. Property without legal representation, such as a house without a title, or a business without a license or patent rights, becomes dead capital incapable of producing additional value.
 
-Capitalism functions properly in places where people’s assets are legally defined. A clear, legal status brings an asset to life beyond the physical world, and allows people to expand their economic interactions from solely with people they know, to a wider market. For example, with officially recognized collateral, people can obtain loans from banks.
+Capitalism functions properly in places where people can legally define their assets. A clear, legal status brings an asset to life beyond the physical world, and allows people to expand their economic interactions from solely with people they know, to a wider market. For example, with officially recognized collateral, people can obtain loans from banks.
 
 # Benefits for the Community
 
-Property rights don’t just help the individuals that receive them. Property owners incentivized to invest in their assets create additional business for banks, insurance firms, builders, etc. People with vested interests in their communities are more likely to respect the property of their neighbors, and want to keep the peace.
+Property rights don’t just help the individuals that receive them. Property owners invest in their assets, and create additional business for banks, insurance firms, builders, etc. People with vested interests in their communities are more likely to respect the property of their neighbors, and want to keep the peace.
 
-Formalization provides suppliers of public utilities with reliable information regarding accountable consumers. When a crime is committed and police have property-based information to rely on, they are able to narrow their focus on leads.
+Formalization provides suppliers of public utilities with reliable information regarding accountable consumers. When government organizations have property-based information to rely on, they are able to provide more effective services.
 
 # Lessons from the Past
 
