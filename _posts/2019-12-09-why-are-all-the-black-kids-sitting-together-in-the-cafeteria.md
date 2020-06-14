@@ -22,16 +22,14 @@ are, “What does it mean to be Black? What does it mean to be White?”
 and “What can I do to further dismantle racism?” Dr. Tatum defines racism as a system of advantage based on race.
 In the United States today, where White culture is dominant culture, we should
 strive to be race-conscious and recognize that our social system still unfairly
-benefits White people and disadvantages Black people. Progress has definitely
-been made over the years, but there is still good work we can all do. Here are
+benefits White people and disadvantages Black people. There is good work we can all do. Here are
 Dr. Tatum's suggestions:
 
 ### Educate
 
-Stereotypes about marginalized groups are often based not on what people know,
-but what people don’t know. Literature and art created by Black people, for example, are
-underrepresented in parts of our society such as curricula, entertainment, and
-advertisements.
+Stereotypes about marginalized groups are often a result of a lack of information.
+Parts of our society such as curricula, entertainment, and
+advertisements underrepresent literature and art that Black people create.
 
 Because positive images of marginalized groups are not pervasive in mainstream
 culture, people should seek out the voices and work of marginalized group
@@ -54,7 +52,7 @@ significance of race overlooks the disparate histories of the races and denies
 that Black people have a different experience in society than White people.
 
 Acknowledgement of the privileges associated with being White, and the disadvantages
-associated with being Black, is necessary to breaking the system of advantage
+associated with being Black, is necessary to break the system of advantage
 based on race.
 
 ### Challenge
