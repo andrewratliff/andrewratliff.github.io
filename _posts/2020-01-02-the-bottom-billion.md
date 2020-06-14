@@ -11,7 +11,7 @@ poorest billion people on earth in his 2007 book, _The Bottom Billion: Why the
 Poorest Countries Are Failing and What Can Be Done About It_. Professor Collier
 outlines four traps that make it difficult for the poorest countries to escape
 extreme poverty: **conflict**, **natural resources**, **being landlocked with bad
-neighbors**, and **bad governance**. He explains that carefull **aid**,
+neighbors**, and **bad governance**. He explains that careful **aid**,
 **military intervention**, **laws and charters**, and **trade** can combat economic
 stagnancy.
 
