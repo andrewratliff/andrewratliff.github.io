@@ -38,7 +38,7 @@ Pear Blossom’s girlishness attracts Wang Lung, and he appreciates how innocent
 
 # Questions
 
-Do you think women in the 21st century feel pressure to look young?
+Why do people find beauty valuable?
 
 Do you think a person’s appearance affects how you treat the person?
 
