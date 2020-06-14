@@ -16,7 +16,7 @@ aspects of life on earth are improving. Here are four of the ten Instincts Dr. R
 
 The Gap Instinct leads us to understand that there is an "Us," and a "Them," when the reality isn't so binary. Third world/First world, Developing country/Developed country, East/West thinking distorts our understanding of how most people live.
 
-Using statistics from the World Bank and the United Nations, Dr. Rosling proffers a 4 tiered framework based on income level:
+Dr. Rosling uses statistics from the World Bank and the United Nations, and proffers a 4 tiered framework of income level:
 
 #### Hans Rosling’s Framework for Looking at the World
 
