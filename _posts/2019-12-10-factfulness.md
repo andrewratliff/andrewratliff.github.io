@@ -27,7 +27,7 @@ Using statistics from the World Bank and the United Nations, Dr. Rosling proffer
 | 3 | 2 | 8 - 32 |
 | 4 | 1 | >32 |
 
-People’s lives are dramatically different on Level 1, 2, and 3. For a person living in extreme poverty on Level 1, the difference of a few more dollars every day is tremendous. However, if you live on Level 4, it's easy to look at everyone on Level 1, 2, and 3, and classify them all as “poor,” without recognizing significant differences. Dr. Rosling argues that the majority of people live on [Level 2 or 3](https://www.gapminder.org/answers/how-many-are-rich-and-how-many-are-poor/){:target="_blank"}, where many educated people assume the “gap” exists.
+People’s lives are dramatically different on Level 1, 2, and 3, and between these levels, the difference of a few more dollars every day is tremendous. However, if you live on Level 4, it's easy to look at everyone on Level 1, 2, and 3, and classify them all as “poor." Dr. Rosling argues that the majority of people live on [Level 2 or 3](https://www.gapminder.org/answers/how-many-are-rich-and-how-many-are-poor/){:target="_blank"}, where many educated people assume the “gap” exists.
 
 ### The Negativity Instinct
 
