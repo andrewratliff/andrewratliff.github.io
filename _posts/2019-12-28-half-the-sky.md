@@ -16,8 +16,7 @@ violence, and maternal mortality.
 
 ### Forced Prostitution
 
-Ms. WuDunn and Mr. Kristof suggest that the discussion of forced prostitution is
-often distracted by disagreement about prostitution in general. One strategy is to
+Ms. WuDunn and Mr. Kristof highlight the disagreement about prostitution in general. One strategy is to
 legalize and regulate commercial sex among consenting adults, so that
 all parties may benefit from legal protections. Another argument is that
 commercial sex is inherently wrong, and legalization and regulation policies do
@@ -25,7 +24,7 @@ not actually diminish a parallel, illegal industry. The authors share that
 while they originally thought that the legalization and regulation of sex work would be helpful,
 they have come to believe that legalized prostitution does not reduce the numbers
 of exploited children or adults. Ms. WuDunn and Mr. Kristof stress, however, that
-the debate surrounding prostitution impedes action against forced prostitution.
+the debate around prostitution impedes action against forced prostitution.
 
 To further complicate the discussion around forced prostitution, is the reality
 that the difference between forced and willing prostitution is not
@@ -36,7 +35,7 @@ are free to leave, a new life doesn’t seem like a realistic option.
 
 The authors suggest that we come away from the debate regarding legal vs.
 illegal prostitution, and willing vs. forced prostitution, and focus more on
-creating vocational opportunities for women. To learn more about microfinance for
+alternative vocational opportunities for women. To learn more about microfinance for
 women, explore [Kiva][1]{:target="_blank"} or
 [Women’s World Banking][2]{:target="_blank"}.
 
@@ -50,11 +49,11 @@ The authors point out that both men and women internalize and reproduce the
 misogynistic values that create cultures of violence against women. Mothers
 sometimes give their daughters less care than their sons, and mothers-in-law and
 women brothel managers are often responsible for beating the younger women. Many
-women also agree that depending on the situation, men have the right to beat
+women also agree that in some situations, men have the right to beat
 their wives.
 
 Ms. WuDunn and Mr. Kristof press that education is one of the surest ways to
-help people escape a mindset that subordinates women. They recommend supporting
+help people escape a mindset that subordinates women. They recommend support for
 [_Campaign for Female Education (CAMFED)_][3]{:target="_blank"},
 and the [_Afghan Institute of Learning_][4]{:target="_blank"}.
 
@@ -75,7 +74,7 @@ childbirth can cause fistulas, for example. Fistulas are abnormal connections
 between two parts of the body, and can cause death or lifelong problems for new mothers.
 Fistulas are preventable and treatable at low costs.
 
-Ensuring that mothers survive childbirth and thrive after giving birth is the
+The survival and well-being of mothers is the
 priority of several effective organizations such as
 [_Averting Maternal Death and Disability_][5]{:target="_blank"} and
 [_Fistula Foundation_][6]{:target="_blank"}.
