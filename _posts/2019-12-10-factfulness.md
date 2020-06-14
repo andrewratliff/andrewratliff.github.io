@@ -41,11 +41,11 @@ Many good realities, like literacy, vaccinations, and life expectancy are increa
 
 The Straight Line Instinct allows us to look at world population growth and think that the line will continue on the same trajectory, even though United Nations population experts predict that population growth will flatten out between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
 
-However, UN global population predictions are dependent on life expectancy at birth and total fertility. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies surviving.
+However, UN global population predictions are dependent on life expectancy at birth and total fertility. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies' survival.
 
 ### The Destiny Instinct
 
-The Destiny Instinct makes us falsely believe that there are certain innate characteristics that determine which groups of people succeed or fail. Thinking, "that's just the way things are," is dangerous because it allows us to consider some cultures inherently more superior than others.
+The Destiny Instinct makes us falsely believe that there are certain innate characteristics that determine which groups of people succeed or fail. To think, "that's just the way things are," is dangerous because it allows us to consider some cultures inherently more superior than others.
 
 Cultures have always evolved and will continue to evolve. In Hans Rosling's words:
 
