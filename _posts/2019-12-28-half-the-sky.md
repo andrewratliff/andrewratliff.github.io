@@ -43,9 +43,8 @@ women, explore [Kiva][1]{:target="_blank"} or
 ### Gender Based Violence
 
 _Half the Sky_ highlights the many ways in which girls and women experience
-violence that is directed at them specifically because of their gender. Research suggests that with the advancement of ultrasound technology, people began to abort female fetuses more often than male fetuses. Girl children tend to receive
-less medical attention, food, and education compared to their brothers when resources diminish in a family. Women
-also continue to suffer honor killings, genital cutting, and systematic rape.
+violence specifically because of their gender. Research suggests that with the advancement of ultrasound technology, people began to abort female fetuses more often than male fetuses. Girl children tend to receive
+less medical attention, food, and education compared to their brothers when resources diminish in a family, and women continue to suffer honor killings, genital cutting, and systematic rape.
 
 The authors point out that both men and women internalize and reproduce the
 misogynistic values that create cultures of violence against women. Mothers
