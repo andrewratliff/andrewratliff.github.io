@@ -62,7 +62,7 @@ and the [_Afghan Institute of Learning_][4]{:target="_blank"}.
 Maternal mortality ratio (MMR) indicates the number of maternal deaths for every
 100,000 live births. In 1987, the United Nation’s Safe Motherhood Initiative
 endeavored to reduce maternal mortality by 50 percent by the year 2000. Then, in
-2000, the UN set a Millennium Development Goal of reducing maternal mortality by
+2000, the UN set a Millennium Development Goal to reduce maternal mortality by
 75 percent by 2015. Neither goal was met. While childbirth can be dangerous for
 women worldwide, it can be especially lethal to those that can’t receive
 emergency obstetric care such as C-sections.
