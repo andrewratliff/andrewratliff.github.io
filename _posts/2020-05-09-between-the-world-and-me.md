@@ -18,7 +18,7 @@ fundamental problem of violence. Whether the aggressor is white, black, or any
 other race, much of the violence against black people stems from the same
 history of racism.
 
-Mr. Coates warns his son that black people are not afforded the same tolerance
+Mr. Coates warns his son that black people do not receive the same tolerance
 as white people when they make mistakes - whether those mistakes are real or
 imagined. He writes, “...the price of error is higher for you than it is for
 your countrymen...our errors always cost us more” (pp. 95-96). Mr. Coates cites
@@ -45,7 +45,7 @@ own feelings. She stresses to Mr. Coates’s son:
 > You exist. You matter. You have value. You have every right to wear your
 > hoodie, to play your music as loud as you want. You have every right to be
 > you. And no one should deter you from being you. You have to be you. And you
-> can never be afraid to be you (p. 113).
+> can never be afraid to be you. (p. 113)
 
 [Listen][2]{:target="_blank"} to Ta-Nehisi Coates talk about violence against
 black people in the United States.
