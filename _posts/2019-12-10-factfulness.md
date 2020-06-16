@@ -16,7 +16,7 @@ aspects of life on earth are improving. Here are four of the ten Instincts Dr. R
 
 The Gap Instinct leads us to understand that there is an "Us," and a "Them," when the reality isn't so binary. Third world/First world, Developing country/Developed country, East/West thinking distorts our understanding of how most people live.
 
-Dr. Rosling uses statistics from the World Bank and the United Nations, and proffers a 4 tiered framework of income level:
+Dr. Rosling uses statistics from the World Bank and the United Nations to proffer a 4 tiered framework of income level:
 
 #### Hans Rosling’s Framework to Look at the World
 
@@ -39,7 +39,7 @@ Many good realities, like literacy, vaccinations, and life expectancy are increa
 
 ### The Straight Line Instinct
 
-The Straight Line Instinct allows us to look at world population growth and think that the line will continue on the same trajectory, even though United Nations population experts predict that population growth will flatten out between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
+The Straight Line Instinct allows us to look at world population growth and think that the line will continue on the same trajectory, even though United Nations population experts predict that population growth will flatten between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
 
 However, UN global population predictions are dependent on life expectancy at birth and total fertility. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies' survival.
 
