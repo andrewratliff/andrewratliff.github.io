@@ -16,7 +16,7 @@ violence, and maternal mortality.
 
 ### Forced Prostitution
 
-Ms. WuDunn and Mr. Kristof highlight the disagreement about prostitution in general. One strategy is to
+The first reason why forced prostitution is difficult to combat is the overarching controversy about prostitution in general. One strategy is to
 legalize and regulate commercial sex among consenting adults, so that
 all parties may benefit from legal protections. Another argument is that
 commercial sex is inherently wrong, and legalization and regulation policies do
@@ -26,7 +26,7 @@ they have come to believe that legalized prostitution does not reduce the number
 of exploited children or adults. Ms. WuDunn and Mr. Kristof stress, however, that
 the debate around prostitution impedes action against forced prostitution.
 
-To further complicate the discussion around forced prostitution, is the reality
+To further complicate the mission to eradicate forced prostitution, is the reality
 that the difference between forced and willing prostitution is not
 always clear. Consider adult women who seem to be volitional sex workers. The
 women may have been coerced in to sex work as children, forced to develop a
