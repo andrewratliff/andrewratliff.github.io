@@ -27,7 +27,7 @@ Dr. Tatum's suggestions:
 
 ### Educate
 
-Stereotypes about marginalized groups are often a result of a lack of information.
+Stereotypes about marginalized groups often exist due to a lack of information.
 Parts of our society such as curricula, entertainment, and
 advertisements underrepresent literature and art that Black people create.
 
