@@ -47,9 +47,7 @@ However, UN global population predictions are dependent on life expectancy at bi
 
 The Destiny Instinct makes us falsely believe that there are certain innate characteristics that determine which groups of people succeed or fail. To think, "that's just the way things are," is dangerous because it allows us to consider some cultures inherently more superior than others.
 
-Cultures have always evolved and will continue to evolve. In Hans Rosling's words:
-
-> The macho values that are found today in many Asian and African countries, these are not Asian values, or African values. They are not Muslim values. They are not Eastern values. They are patriarchal values like those found in Sweden only 60 years ago, and with social and economic progress they will vanish, just as they did in Sweden. They are not unchangeable (p. 179).
+Cultures have always evolved and will continue to evolve. Dr. Rosling points out that many harmful values, such as patriarchal values, are not limited to particular regions, countries, or religions. Just as patriarchal values are a part of cultures all over the world, and we have the power to foster equity all over the world.
 
 ---
 References
