@@ -38,7 +38,7 @@ members. Exposure to different perspectives helps us better understand society a
 ### Reflect
 
 Think about your own identity. Along with race, there are other social
-categories in which people find themselves either advantaged or disadvantaged. Gender, socioeconomic status, sexual orientation, ability (intellectual and physical), and religion, are several
+categories in which people find themselves either advantaged or disadvantaged. Gender, socioeconomic status, sexual orientation, ability (intellectual and physical), and religion, for example, are several more
 characteristics that affect our experience in society.
 
 Many people occupy a combination of dominant and nondominant statuses. If we
@@ -59,7 +59,7 @@ based on race.
 
 Even when we recognize injustice, we may choose to remain silent. However, silence serves as agreement, and perpetuates bad ideas.
 
-We should all feel confident and motivated to challenge unfairness. Everyone can contribute to change in their environment.
+We should all feel confident and motivated to challenge racism. Everyone can contribute to change in their environment.
 
 
 Listen to Dr. Tatum talk about [_Why Are All the Black Kids Sitting Together in
