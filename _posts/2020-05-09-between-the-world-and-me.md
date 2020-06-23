@@ -13,7 +13,7 @@ privileged in many ways, but that life in a black body remains dangerous.
 
 Physical violence against black people is Mr. Coates’s greatest concern. He
 suggests that all of the country’s contemporary, nuanced language to describe
-various race-based issues distracts the focus that must be placed on the most
+various race-based issues distracts focus from the most
 fundamental problem of violence. Whether the aggressor is white, black, or any
 other race, much of the violence against black people stems from the same
 history of racism.
@@ -25,7 +25,7 @@ your countrymen...our errors always cost us more” (pp. 95-96). Mr. Coates cite
 the 2012 death of seventeen-year-old Trayvon Martin, who was murdered by George
 Zimmerman in Florida, and the 2014 passing of twelve-year-old Tamir Rice, who
 was shot by a police officer in an Ohio park. He names Renisha McBride, a woman
-shot dead in Michigan in 2013, and Marlene Pinnock, a woman beaten by a police
+shot dead in Michigan in 2013, and Marlene Pinnock, a woman beat by a police
 officer in California in 2014. He references several deaths of black men at the
 hands of police officers in 2014: Eric Garner - killed by a chokehold in New
 York, John Crawford - shot and killed in an Ohio Walmart, and Michael Brown -
