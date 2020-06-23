@@ -25,11 +25,13 @@ To break white solidarity, white people must hold each other accountable for the
 
 Listen to Dr. Robin DiAngelo talk about white fragility and racism in the United States.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45ey4jgoxeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/45ey4jgoxeU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br>
 
 ---
 References
 
-R. DiAngelo. (2018). White fragility: Why it’s so hard for white people to talk about racism. Beacon Press.
+R. DiAngelo. (2018). _White fragility: Why it’s so hard for white people to talk about racism_. Beacon Press.
