@@ -6,7 +6,7 @@ categories: books
 image: i_am_malala.jpg
 ---
 
-Malala Yousafzai became an outspoken activist for girls’ education around the age of eleven, when the Taliban came to the Swat Valley in Pakistan. The Taliban bombed a number of girls’ schools, and towards the end of 2008, finally announced that all girls’ schools must close. Malala gave television and radio interviews, wrote a blog for the BBC, and agreed to have New York Times journalist Adam Ellick film her for a documentary. In 2012, fifteen-year-old Malala was on her way home from school, when a Taliban gunman shot her in the head. Malala survived the attempted murder, and continued to advocate for girls’ education. In 2014, she became the youngest recipient of the Nobel Peace Prize.
+Malala Yousafzai became an outspoken activist for girls’ education around the age of eleven, when the Taliban came to the Swat Valley in Pakistan. The Taliban bombed a number of girls’ schools, and towards the end of 2008, finally announced that all girls’ schools must close. Malala gave television and radio interviews, wrote a blog for the BBC, and agreed to have New York Times journalist Adam Ellick film her for a documentary.* In 2012, fifteen-year-old Malala was on her way home from school, when a Taliban gunman shot her in the head. Malala survived the attempted murder, and continued to advocate for girls’ education. In 2014, she became the youngest recipient of the Nobel Peace Prize.
 
 With the help of journalist and author, Christina Lamb, Malala published her 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_. Malala’s book reveals the tremendous discrimination women in Pakistan endure - regardless of the Taliban. Her book also illustrates the mistreatment of poor people and people with dark skin. In Pakistan, discrimination based on gender, class, and skin color is evident across the generations.
 
@@ -52,6 +52,7 @@ Malala disparages her natural skin color, and tries to lighten her complexion, j
 
 Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals the injustice of general Pakistan, and discrimination against more than one group of people.
 
+* Adam Ellick's 2009 documentary, "Class Dismissed: Malala's Story," contains scenes of graphic violence, and is not suitable for everyone.
 ---
 References
 
