@@ -35,7 +35,7 @@ The Negativity Instinct causes us to worry that everything is bad, and getting w
 
 Many bad realities, like hunger, child labor, and extreme poverty are decreasing. From 1800 to 2017, extreme poverty around the world decreased from 85 percent to 9 percent.
 
-Many good realities, like literacy, vaccinations, and longer longer life expectancy are increasing. From 1800 to 2017, the average life expectancy around the world rose from 31 years to 72 years.
+Literacy, vaccinations, and life expectancy are increasing. From 1800 to 2017, the average life expectancy around the world rose from 31 years to 72 years.
 
 ### The Straight Line Instinct
 
