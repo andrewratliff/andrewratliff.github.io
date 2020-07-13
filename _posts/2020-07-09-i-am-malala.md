@@ -6,9 +6,9 @@ categories: books
 image: i_am_malala.jpg
 ---
 
-Malala Yousafzai became an outspoken activist for girls’ education around the age of eleven, when the Taliban came to the Swat Valley in Pakistan. The Taliban bombed a number of girls’ schools, and towards the end of 2008, finally announced that all girls’ schools must close. Malala gave television and radio interviews, wrote a blog for the BBC, and agreed to have New York Times journalist Adam Ellick film her for a [documentary](#video). In 2012, fifteen-year-old Malala was on her way home from school, when a Taliban gunman shot her in the head. Malala survived the attempted murder, and continued to advocate for girls’ education. In 2014, she became the youngest recipient of the Nobel Peace Prize.
+Malala Yousafzai became an outspoken activist for girls’ education around the age of eleven, when the Taliban came to the Swat Valley in Pakistan. The Taliban bombed a number of girls’ schools, and towards the end of 2008, announced that all girls’ schools must close. Malala gave television and radio interviews, wrote a blog for the BBC, and agreed to have New York Times journalist, Adam Ellick, film her for a [documentary](#video). In 2012, fifteen-year-old Malala was on her way home from school, when a Taliban gunman shot her in the head. Malala survived the attempted murder, and continued to advocate for girls’ education. In 2014, she became the youngest recipient of the Nobel Peace Prize.
 
-With the help of journalist and author, Christina Lamb, Malala published her 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_. Malala’s book reveals the tremendous discrimination women in Pakistan endure - regardless of the Taliban. Her book also illustrates the mistreatment of poor people and people with dark skin. In Pakistan, discrimination based on gender, class, and skin color is evident across the generations.
+With the help of journalist and author, Christina Lamb, Malala published her 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_. Malala’s book reveals the tremendous discrimination women in her community endure - regardless of the Taliban. Her book also illustrates the mistreatment of poor people and people with dark skin. Discrimination based on gender, class, and skin color is evident across the generations.
 
 # Gender
 
@@ -23,7 +23,7 @@ The bias against girls continues when Malala comes into the world in 1997, a dec
 
 # Class
 
-Like girls, poor children in Pakistan are vulnerable to contempt. As a young man, Malala’s father desperately wants to continue his own education so he won’t  “end up like his brother teaching in a local school” (p. 33). Malala explains that teachers do not want to teach at the mountain village of Sewoor, Pakistan, where her uncle works:
+Like girls, poor children in Pakistan are vulnerable to contempt. As a young man, Malala’s father desperately wants to continue his own education so he won’t  “end up like his brother teaching in a local school” (p. 33). Malala explains why teachers do not want to teach at the mountain village of Sewoor, Pakistan, where her uncle works:
 
 > The people in Sewoor were Gujars, Kohistanis and Mians. We regard Mians as noble or landed people, but Gujars and Kohistanis are what we call hilly people, peasants who look after buffaloes. Their children are usually dirty and they are looked down upon by Pashtuns, even if they are poor themselves. ‘They are dirty, black and stupid,’ people would say. ‘Let them be illiterate.’ All the teachers do is to keep the children quiet with a long stick, as they cannot imagine education will be any use to them. (p. 34)
 
@@ -41,7 +41,7 @@ Colorism harms both Malala and her father before her. Malala’s father, while p
 
 > ...had been so self-conscious about being dark-skinned that he used to go to the fields to get buffalo milk to spread on his face, thinking it would make him lighter. It was only when he met my mother that he became comfortable in his own skin. Being loved by such a beautiful girl gave him confidence. (p. 15)
 
-Ziauddin’s hard work, intellect, and character are not enough to reassure him of his value. Instead, his self-worth improves only because a woman with light skin deems him worthy.
+Ziauddin’s hard work and upstanding character are not enough to reassure him of his value. Instead, his self-worth improves only because a woman with light skin deems him worthy.
 
 Malala absorbs her culture’s desire for light skin. She shares, “I wished I had [my mother’s] white-lily skin, fine features and green eyes, but instead had inherited the sallow complexion, wide nose and brown eyes of my father” (p. 15). As a fifteen-year-old, Malala uses cream to whiten her skin. She recalls an exchange with a friend:
 
@@ -50,7 +50,7 @@ Malala absorbs her culture’s desire for light skin. She shares, “I wished I 
 
 Malala disparages her natural skin color, and tries to lighten her complexion, just as her father did. Ziauddin suffers because of his environment’s definition of beauty, and he is unable to save his daughter from the same experience.
 
-Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals the injustice of general Pakistan, and discrimination against more than one group of people.
+Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals widespread discrimination against more than one group of people.
 
 <div class="resp-container" id="video">
   <iframe class="resp-iframe" title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000001835296"></iframe>
