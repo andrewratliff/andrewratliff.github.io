@@ -47,7 +47,7 @@ However, UN global population predictions are dependent on life expectancy at bi
 
 The Destiny Instinct makes us falsely believe that there are certain innate characteristics that determine which groups of people succeed or fail. To think, "that's just the way things are," is dangerous because it allows us to consider some cultures inherently more superior than others.
 
-Cultures have always evolved and will continue to evolve. Dr. Rosling points out that many harmful values, such as patriarchal values, are not limited to particular regions, countries, or religions. Just as cultures all over the world exhibit patriarchal values, people all over the world have the power to foster equity.
+Dr. Rosling points out that many harmful values, such as patriarchal values, are not limited to particular regions, countries, or religions. Just as cultures all over the world exhibit patriarchal values, people all over the world have the power to foster equity.
 
 ---
 References
