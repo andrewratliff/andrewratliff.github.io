@@ -19,7 +19,7 @@ As children in the 1970s and 1980s, both of Malala’s parents experience the un
 
 Ziauddin and Toor Pekai’s families withhold education and certain types of food, among other privileges, from the girls.
 
-The bias against girls continues when Malala comes into the world in 1997, a decade before the Taliban terrorizes the Swat Valley. Malala writes about the day she was born: “My mother was worried about telling [my father] he had a daughter not a son...” (p. 44). The preference for boys is so strong that Malala’s mother believes her daughter's birth is a disappointment. Traditionally, families host a celebration called _Woma_, on their new baby’s seventh day of life. However, Malala’s family does not invite people to celebrate. Malala explains, “My parents had not held [a _Woma_] for me because they could not afford the goat and rice needed to feed the guests, and my grandfather would not help them out because I was not a boy” (p. 47). Two years later, Malala’s brother, Khushal, is born. Malala knows, “My mother had been waiting for a son and could not hide her joy when he was born” (p. 15). Malala’s grandfather offers to pay for the celebration of his grandson’s birth. Thus, the positive responses associated with boys, but not girls, carry into the lives of Malala and her siblings.
+The bias against girls continues when Malala comes into the world in 1997, a decade before the Taliban terrorizes the Swat Valley. Malala writes about the day she is born: “My mother was worried about telling [my father] he had a daughter not a son...” (p. 44). The preference for boys is so strong that Malala’s mother believes her daughter's birth is a disappointment. Traditionally, families host a celebration called _Woma_, on their new baby’s seventh day of life. However, Malala’s family does not invite people to celebrate. Malala explains, “My parents had not held [a _Woma_] for me because they could not afford the goat and rice needed to feed the guests, and my grandfather would not help them out because I was not a boy” (p. 47). Two years later, Malala’s brother, Khushal, is born. Malala knows, “My mother had been waiting for a son and could not hide her joy when he was born” (p. 15). Malala’s grandfather offers to pay for the celebration of his grandson’s birth. Thus, the positive responses associated with boys, but not girls, carry into the lives of Malala and her siblings.
 
 # Class
 
@@ -48,7 +48,7 @@ Malala absorbs her community’s desire for light skin. She shares, “I wished 
 
 > Moniba was looking very beautiful, her skin porcelain-pale. ‘What skin cream are you using?’ I ask her. ‘The same one you’re using,’ she replied. I knew that could not be true. ‘No. Look at my dark skin and look at yours!’ (p. 190)
 
-Like her father, Malala disparages her natural skin color, and tries to lighten her complexion. Ziauddin suffers because of a narrow definition of beauty, and he is unable to save his daughter from the same experience.
+Like her father, Malala disparages her natural skin color, and tries to lighten her complexion. Ziauddin suffers because of a narrow definition of beauty, and he is unable to save his daughter from a similar experience.
 
 Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals widespread discrimination against more than one group of people.
 
