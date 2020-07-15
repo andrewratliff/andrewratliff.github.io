@@ -6,9 +6,9 @@ categories: books
 image: i_am_malala.jpg
 ---
 
-Malala Yousafzai became an outspoken activist for girls’ education around the age of eleven, when the Taliban came to the Swat Valley in Pakistan. The Taliban bombed a number of girls’ schools, and towards the end of 2008, announced that all girls’ schools must close. Malala gave television and radio interviews, wrote a blog for the BBC, and agreed to have New York Times journalist, Adam Ellick, film her for a [documentary](#video). In 2012, fifteen-year-old Malala was on her way home from school, when a Taliban gunman shot her in the head. Malala survived the attempted murder, and continued to advocate for girls’ education. In 2014, she became the youngest recipient of the Nobel Peace Prize.
+Malala Yousafzai becomes an outspoken activist for girls’ education around the age of eleven, when the Taliban comes to the Swat Valley in Pakistan. The Taliban bombs a number of girls’ schools, and towards the end of 2008, announces that all girls’ schools must close. Malala gives television and radio interviews, writes a blog for the BBC, and allows New York Times journalist, Adam Ellick, to film her for a [documentary](#video). In 2012, fifteen-year-old Malala is on her way home from school, when a Taliban gunman shoots her in the head. Malala survives the attempted murder, and continues to advocate for girls’ education. In 2014, she becomes the youngest recipient of the Nobel Peace Prize.
 
-With the help of journalist and author, Christina Lamb, Malala published her 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_. Malala’s book reveals the tremendous discrimination women in her community endure - regardless of the Taliban. Her book also illustrates the mistreatment of poor people and people with dark skin. Discrimination based on gender, class, and skin color is evident across the generations.
+With the help of journalist and author, Christina Lamb, Malala publishes her 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_. Malala’s book reveals the tremendous discrimination women in her community endure - regardless of the Taliban. Her book also illustrates the mistreatment of poor people and people with dark skin. Discrimination based on gender, class, and skin color is evident across the generations.
 
 # Gender
 
@@ -19,7 +19,7 @@ As children in the 1970s and 1980s, both of Malala’s parents experience the un
 
 Ziauddin and Toor Pekai’s families withhold education and certain types of food, among other privileges, from the girls.
 
-The bias against girls continues when Malala comes into the world in 1997, a decade before the Taliban terrorizes the Swat Valley. Malala writes about the day she was born: “My mother was worried about telling [my father] he had a daughter not a son...” (p. 44). The preference for boys is so strong that Malala’s mother is anxious her husband will be displeased. Traditionally, families host a celebration called _Woma_, on their new baby’s seventh day of life. However, Malala’s family does not invite people to celebrate. Malala explains, “My parents had not held [a _Woma_] for me because they could not afford the goat and rice needed to feed the guests, and my grandfather would not help them out because I was not a boy” (p. 47). Two years later, Malala’s brother, Khushal, is born. Malala knows, “My mother had been waiting for a son and could not hide her joy when he was born” (p. 15). Malala’s grandfather offers to pay for the celebration of his grandson’s birth. Thus, the positive responses associated with boys, but not girls, carry into the lives of Malala and her siblings.
+The bias against girls continues when Malala comes into the world in 1997, a decade before the Taliban terrorizes the Swat Valley. Malala writes about the day she was born: “My mother was worried about telling [my father] he had a daughter not a son...” (p. 44). The preference for boys is so strong that Malala’s mother believes her daughter's birth is a disappointment. Traditionally, families host a celebration called _Woma_, on their new baby’s seventh day of life. However, Malala’s family does not invite people to celebrate. Malala explains, “My parents had not held [a _Woma_] for me because they could not afford the goat and rice needed to feed the guests, and my grandfather would not help them out because I was not a boy” (p. 47). Two years later, Malala’s brother, Khushal, is born. Malala knows, “My mother had been waiting for a son and could not hide her joy when he was born” (p. 15). Malala’s grandfather offers to pay for the celebration of his grandson’s birth. Thus, the positive responses associated with boys, but not girls, carry into the lives of Malala and her siblings.
 
 # Class
 
@@ -37,7 +37,7 @@ Some wealthy families consider the presence of poor people such a degradation, t
 
 # Skin Color
 
-Colorism harms both Malala and her father before her. Malala’s father, while privileged as a boy, suffers because of people’s reactions to his skin color. Malala describes her father’s experiences as a boy: “...he was insecure about his looks because at school the teachers always favored the handsome boys for their fair skin. His cousins would stop my father on his way home from school and tease him about being short and dark skinned” (p. 28). Blatant partiality for light skin, exhibited to Ziauddin by educators and family members, damages his confidence. Malala writes that Ziauddin:
+Colorism harms both Malala and her father before her. Malala’s father, while privileged as a boy, suffers because of people’s reactions to his skin color. Malala describes her father’s experiences as a boy: “...he was insecure about his looks because at school the teachers always favored the handsome boys for their fair skin. His cousins would stop my father on his way home from school and tease him about being short and dark skinned” (p. 28). Both educators and family members exhibit blatant partiality for light skin, and damage Ziauddin's confidence. Malala writes that Ziauddin:
 
 > ...had been so self-conscious about being dark-skinned that he used to go to the fields to get buffalo milk to spread on his face, thinking it would make him lighter. It was only when he met my mother that he became comfortable in his own skin. Being loved by such a beautiful girl gave him confidence. (p. 15)
 
@@ -48,7 +48,7 @@ Malala absorbs her community’s desire for light skin. She shares, “I wished 
 
 > Moniba was looking very beautiful, her skin porcelain-pale. ‘What skin cream are you using?’ I ask her. ‘The same one you’re using,’ she replied. I knew that could not be true. ‘No. Look at my dark skin and look at yours!’ (p. 190)
 
-Malala disparages her natural skin color, and tries to lighten her complexion, just as her father did. Ziauddin suffers because of a narrow definition of beauty, and he is unable to save his daughter from the same experience.
+Like her father, Malala disparages her natural skin color, and tries to lighten her complexion. Ziauddin suffers because of a narrow definition of beauty, and he is unable to save his daughter from the same experience.
 
 Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals widespread discrimination against more than one group of people.
 
