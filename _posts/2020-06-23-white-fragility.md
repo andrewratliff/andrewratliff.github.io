@@ -9,7 +9,7 @@ In her 2018 book, _White Fragility_, Dr. Robin DiAngelo explains how white peopl
 
 # White Fragility
 
-White fragility is the defensive reaction white people may have when another person points out a racially problematic aspect of their beliefs, words, or actions.
+White fragility manifests as the defensive reaction white people may have when another person points out a racially problematic aspect of their beliefs, words, or actions.
 
 Dr. DiAngelo suggests that no one in the United States is completely free of racist ideas because racism is a product of American socialization. She encourages people to examine themselves and identify their own racist patterns, rather than try to deny any racism. White people are better allies when they listen to difficult feedback with humility and gratitude (p. 141).
 
