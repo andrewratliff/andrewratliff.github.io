@@ -6,7 +6,7 @@ categories: books
 image: i_am_malala.jpg
 ---
 
-Malala Yousafzai becomes an outspoken activist for girls’ education around the age of eleven, when the Taliban arrives in the Swat Valley of Pakistan. The Taliban bombs a number of girls’ schools, and towards the end of 2008, announces that all girls’ schools must close. Malala gives television and radio interviews, writes a blog for the BBC, and allows New York Times journalist, Adam Ellick, to film her for a [documentary](#video). In 2012, fifteen-year-old Malala is on her way home from school, when a Taliban gunman shoots her in the head. Malala survives the attack, and continues to advocate for girls’ education. In 2014, she becomes the youngest recipient of the Nobel Peace Prize.
+Malala Yousafzai becomes an outspoken activist for girls’ education around the age of eleven, when the Taliban arrives in the Swat Valley of Pakistan. The Taliban bombs a number of girls’ schools, and towards the end of 2008, announces that all girls’ schools must close. Malala gives television and radio interviews, writes a blog for the BBC, and allows New York Times journalist, Adam Ellick, to film her for a [documentary](#video). While on her way home from school one day in 2012, a Taliban gunman shoots fifteen-year-old Malala in the head. Malala survives the attack, and continues to advocate for girls’ education. In 2014, she becomes the youngest recipient of the Nobel Peace Prize.
 
 With the help of journalist and author, Christina Lamb, Malala publishes her 2013 autobiography, _I Am Malala: The Girl Who Stood Up for Education and was Shot by the Taliban_. Malala’s book reveals the discrimination that women, poor people, and people with dark skin endure in her community across the generations. 
 
@@ -48,7 +48,7 @@ Malala absorbs her community’s desire for light skin. She shares, “I wished 
 
 > Moniba was looking very beautiful, her skin porcelain-pale. ‘What skin cream are you using?’ I ask her. ‘The same one you’re using,’ she replied. I knew that could not be true. ‘No. Look at my dark skin and look at yours!’ (p. 190)
 
-Like her father, Malala disparages her natural skin color, and tries to lighten her complexion. The same narrow definition of beauty that causes Ziauddin to suffer, affects his daughter.
+Like her father, Malala disparages her natural skin color, and tries to lighten her complexion. The same narrow definition of beauty that causes Ziauddin to suffer, affects his daughter as well.
 
 Although the title of Malala’s book highlights the injustice of the Taliban, and the struggle of girls, her book reveals widespread discrimination against more than one group of people.
 
