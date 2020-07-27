@@ -9,8 +9,7 @@ image: factfulness.jpg
 
 Hans Rosling’s 2018 book, _Factfulness_,
 highlights the obligation we have to base our thinking on facts instead of
-instincts. Dr. Rosling suggests that instincts tend to feed the unhelpful feelings of nostalgia and hopelessness. In fact, many
-aspects of life on earth are improving. Here are four of the ten Instincts Dr. Rosling recommends we avoid:
+instincts. Dr. Rosling suggests that instincts tend to feed the unhelpful feelings of nostalgia and hopelessness. Here are four of the ten Instincts Dr. Rosling recommends we avoid:
 
 ### The Gap Instinct
 
@@ -31,15 +30,15 @@ People’s lives are dramatically different on Level 1, 2, and 3, and between th
 
 ### The Negativity Instinct
 
-The Negativity Instinct causes us to worry that everything is bad, and getting worse, despite gradual, and sometimes drastic improvements.
+The Negativity Instinct causes us to worry that everything is worse today, despite gradual, and sometimes drastic improvements.
 
-Many bad realities, like hunger, child labor, and extreme poverty are decreasing. From 1800 to 2017, extreme poverty around the world decreased from 85 percent to 9 percent.
+Many bad realities, like hunger, child labor, and extreme poverty are less prevalent today than in the past. From 1800 to 2017, extreme poverty around the world decreased from 85 percent to 9 percent.
 
-Literacy, vaccinations, and life expectancy are increasing. From 1800 to 2017, the average life expectancy around the world rose from 31 years to 72 years.
+Today, more people than ever before can read, receive vaccinations, and live a full life. From 1800 to 2017, the average life expectancy around the world rose from 31 years to 72 years.
 
 ### The Straight Line Instinct
 
-The Straight Line Instinct allows us to look at world population growth and think that the line will continue on the same trajectory, even though United Nations population experts predict that population growth will flatten between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
+The Straight Line Instinct allows us to look at world population growth and think that the line will continue on the same trajectory, even though United Nations population experts predict population growth to flatten between [10 and 12 billion by 2100](https://population.un.org/wpp/Graphs/Probabilistic/POP/TOT/900){:target="_blank"}.
 
 However, UN global population predictions are dependent on life expectancy at birth and total fertility. If we want to [curb population growth](https://www.gapminder.org/answers/will-saving-poor-children-lead-to-overpopulation/){:target="_blank"}, we must improve the quality of life for poor families and increase the chances of their babies' survival.
 
