@@ -11,11 +11,11 @@ In her 2018 book, _White Fragility_, Dr. Robin DiAngelo explains how white peopl
 
 White fragility manifests as the defensive reaction white people may have when another person points out a racially problematic aspect of their beliefs, words, or actions.
 
-Dr. DiAngelo suggests that no one in the United States is completely free of racist ideas because racism is a product of American socialization. She encourages people to examine themselves and identify their own racist patterns, rather than try to deny any racism. White people are better allies when they listen to difficult feedback with humility and gratitude (p. 141).
+Dr. DiAngelo suggests that no one in the United States lives completely free of racist ideas because racism is a product of American socialization. She encourages people to examine themselves and identify their own racist patterns, rather than try to deny any racism. White people are better allies when they listen to difficult feedback with humility and gratitude (p. 141).
 
 # White Solidarity
 
-White solidarity is upheld when a white person says or does something racially problematic, and other white people don't challenge that person. Dr. DiAngelo writes:
+White solidarity thrives when a white person says or does something racially problematic, and other white people don't challenge that person. Dr. DiAngelo writes:
 
 > We see white solidarity at the dinner table, at parties, and in work settings. Many of us can relate to the big family dinner at which Uncle Bob says something racially offensive. Everyone cringes but no one challenges him because nobody wants to ruin the dinner. Or the party where someone tells a racist joke but we keep silent because we don’t want to be accused of being too politically correct and be told to lighten up. In the workplace, we avoid naming racism for the same reasons, in addition to wanting to be seen as a team player and to avoid anything that may jeopardize our career advancement. (p. 58)
 
