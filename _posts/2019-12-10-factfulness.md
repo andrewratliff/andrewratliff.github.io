@@ -26,15 +26,15 @@ Dr. Rosling uses statistics from the World Bank and the United Nations to proffe
 | 3 | 2 | 8 - 32 |
 | 4 | 1 | >32 |
 
-People’s lives are dramatically different on Level 1, 2, and 3, and between these levels, the difference of a few more dollars every day is tremendous. However, if you live on Level 4, it's easy to look at everyone on Level 1, 2, and 3, and classify them all as “poor." Dr. Rosling argues that the majority of people live on [Level 2 or 3](https://www.gapminder.org/answers/how-many-are-rich-and-how-many-are-poor/){:target="_blank"}, where many educated people assume the “gap” exists.
+If you live on Level 4, you may simply consider everyone on Level 1, 2, and 3, as poor. However, people’s lives are dramatically different on Level 1, 2, and 3, and between these levels, the difference of a few more dollars every day is tremendous. Dr. Rosling argues that the majority of people live on [Level 2 or 3](https://www.gapminder.org/answers/how-many-are-rich-and-how-many-are-poor/){:target="_blank"}, where many educated people assume the “gap” exists.
 
 ### The Negativity Instinct
 
 The Negativity Instinct causes us to worry that everything is worse today, despite gradual, and sometimes drastic improvements.
 
-Many bad realities, like hunger, child labor, and extreme poverty are less prevalent today than in the past. From 1800 to 2017, extreme poverty around the world decreased from 85 percent to 9 percent.
+Many bad realities, like hunger, child labor, and extreme poverty are less prevalent today than in the past. In 1800, 85 percent of the world's population lives in extreme poverty. In 2017, 9 percent of humanity endures extreme poverty.
 
-Today, more people than ever before can read, receive vaccinations, and live a full life. From 1800 to 2017, the average life expectancy around the world rose from 31 years to 72 years.
+Today, more people than ever before can read, receive vaccinations, and live a full life. From 1800 to 2017, we see see a rise in the average life expectancy around the world, from 31 years to 72 years.
 
 ### The Straight Line Instinct
 
