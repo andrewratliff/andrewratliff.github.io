@@ -11,18 +11,17 @@ equality in their 2009 book, _Half the Sky: Turning Oppression into Opportunity
 for Women Worldwide_. The couple maintains that slavery and totalitarianism were
 the most significant global injustices of the 19th and 20th century,
 respectively. They argue that the 21st century’s greatest wrong is gender
-inequality, manifested most extremely by forced prostitution, gender-based
+inequality, which manifests most extremely as forced prostitution, gender-based
 violence, and maternal mortality.
 
 ### Forced Prostitution
 
-The first reason why forced prostitution is difficult to combat is the overarching controversy about prostitution in general. One strategy is to
+The first reason why forced prostitution proves difficult to combat is the controversy about prostitution in general. One strategy is to
 legalize and regulate commercial sex among consenting adults, so that
-all parties may benefit from legal protections. Another argument is that
+all parties may benefit from legal protections. Another argument posits that
 commercial sex is inherently wrong, and legalization and regulation policies do
 not actually diminish a parallel, illegal industry. The authors share that
-while they originally thought the former approach would be helpful,
-they have come to believe that legalized prostitution does not reduce the numbers
+they believe legalized prostitution does not reduce the numbers
 of exploited children or adults. Ms. WuDunn and Mr. Kristof stress, however, that
 the debate around prostitution impedes action against forced prostitution.
 
@@ -48,7 +47,7 @@ less medical attention, food, and education compared to their brothers when reso
 The authors point out that both men and women internalize and reproduce the
 misogynistic values that create cultures of violence against women. Mothers
 sometimes give their daughters less care than their sons, and mothers-in-law and
-women brothel managers are often responsible for beating the younger women. Many
+women brothel managers often beat the younger women. Many
 women also agree that in some situations, men have the right to beat
 their wives.
 
