@@ -42,6 +42,12 @@ own feelings. She stresses to Mr. Coates’s son:
 [Listen][2]{:target="_blank"} to Ta-Nehisi Coates talk about violence against
 black people in the United States.
 
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/e1Pb1Nqfofc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br>
+
 ---
 References
 

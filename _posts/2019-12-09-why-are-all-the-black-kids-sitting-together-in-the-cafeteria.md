@@ -65,6 +65,12 @@ We should all feel confident and motivated to challenge racism. Everyone can con
 Listen to Dr. Tatum talk about [_Why Are All the Black Kids Sitting Together in
 the Cafeteria?_](https://www.chicagohumanities.org/media/beverly-daniel-tatum-why-are-all-black-kids-sitting-together-cafeteria/){:target="_blank"}
 
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/PGZniOuoREU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br>
+
 ---
 References
 
