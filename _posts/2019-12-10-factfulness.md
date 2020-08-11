@@ -32,7 +32,7 @@ If you live on Level 4, you may simply consider everyone on Level 1, 2, and 3, a
 
 The Negativity Instinct causes us to worry that everything is worse today, despite gradual, and sometimes drastic improvements.
 
-Many bad realities, like hunger, child labor, and extreme poverty are less prevalent today than in the past. We must appreciate the 1800 to 2017 drop in extreme poverty, from 85 percent to 9 percent of the world's population.
+Many bad realities, like hunger, child labor, and extreme poverty are less prevalent today than in the past. In 2017, 9 percent of the world's population lives in extreme poverty - a tremendous decrease from 85 percent in 1800. 
 
 Today, more people than ever before can read, receive vaccinations, and live a full life. From 1800 to 2017, we see see a rise in the average life expectancy around the world, from 31 years to 72 years.
 
