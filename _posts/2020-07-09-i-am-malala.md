@@ -33,7 +33,7 @@ When he has children and a school of his own, Malala’s father provides free ed
 
 > Some of the richer parents took their children out of the school when they realized they were sharing classrooms with the sons and daughters of people who cleaned their houses or stitched their clothes. They thought it was shameful for their children to mix with those from poor families. (p. 67)
 
-Some wealthy families consider the presence of poor people such a degradation, that they insist on educational segregation.
+Some wealthy families consider the presence of poor people such an indignity, that they insist on educational segregation.
 
 # Skin Color
 
