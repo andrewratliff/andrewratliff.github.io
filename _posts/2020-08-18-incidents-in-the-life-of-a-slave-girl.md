@@ -7,7 +7,7 @@ image: incidents.jpg
 ---
 
 
-_Incidents in the Life of a Slave Girl _(2016), depicts Harriet Jacobs’s life as an enslaved black woman in the 19th century United States. Born in 1813, Jacobs spends her childhood and young adulthood in slavery. Later in her life, as a free woman in the North, Jacobs reflects on the realities of enslaved black women and mixed-race children. She also highlights the reasons, despite the terrors of slavery, that enslaved people have to endure, rather than try to escape.
+_Incidents in the Life of a Slave Girl_ (2016), depicts Harriet Jacobs’s life as an enslaved black woman in the 19th century United States. Born in 1813, Jacobs spends her childhood and young adulthood in slavery. Later in her life, as a free woman in the North, Jacobs reflects on the realities of enslaved black women and mixed-race children. She also highlights the reasons, despite the terrors of slavery, that enslaved people have to endure, rather than try to escape.
 
 # Enslaved Women
 
@@ -50,4 +50,4 @@ Neither an escape to the North, nor a legally free status guarantees protection 
 ---
 References
 
-Jacobs, H. (2016). Incidents in the life of a slave girl. Clydesdale Press.
+Jacobs, H. (2016). _Incidents in the life of a slave girl_. Clydesdale Press.
