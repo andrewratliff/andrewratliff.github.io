@@ -38,14 +38,14 @@ The wives of enslavers generally take offense to mixed-race children on their pr
 
 # Escape
 
-When they try to escape, enslaved people risk their lives, and the lives of their family members and friends that they leave behind. When Harriet decides she must flee, Dr. Flint abuses her family:
+Jacobs discusses just a few of the many reasons enslaved people have to stay where they are. If they attempt to escape, enslaved people risk their lives, and the lives of their family members and friends that they leave behind. When Harriet decides she must flee, Dr. Flint abuses her family:
 
 
 > My brother William and the good aunt who had served in his family twenty years, and my little Benny, and Ellen who was a little over two years old, were thrust into jail, as a means of compelling my relatives to give some information about me. He swore my grandmother should never see one of them again till I was brought back. (p. 95)
 
 Dr. Flint places older people and young children in the confines of a cell, where they remain for months. He also promises five hundred lashes to any black person on his property involved in Harriet’s escape.
 
-Neither an escape to the North, nor a legally free status guarantees protection for black people. Harriet knows that sometimes, “...when victims make their escape from the wild beast of Slavery, Northerners consent to act the part of the bloodhounds, and hunt the poor fugitive back into his den…” (p. 30). Even when a black people are legally free, many do not honor that status. Harriet’s grandmother obtains her freedom as a child, and with other free family members, she tries to leave South Carolina. However, “...they were captured on their passage, carried back, and sold to different purchasers” (p. 1). Once back on a Southern plantation, Harriet’s grandmother has no way to defend her freedom. As Jacobs’s autobiography illustrates, the common practices of the 19th century impede an enslaved person’s ability to acquire and maintain freedom.
+Neither an escape to the North, nor a legally free status guarantees protection for black people. Harriet knows that sometimes, “...when victims make their escape from the wild beast of Slavery, Northerners consent to act the part of the bloodhounds, and hunt the poor fugitive back into his den…” (p. 30). Even when black people are legally free, many others do not honor that status. Harriet’s grandmother obtains her freedom as a child, and with other free family members, she tries to leave South Carolina. However, “...they were captured on their passage, carried back, and sold to different purchasers” (p. 1). Once on another Southern plantation, Harriet’s grandmother has no way to enforce her liberty. As Jacobs’s autobiography illustrates, the common practices of the 19th century impede an enslaved person’s ability to acquire and maintain freedom.
 
 ---
 References
