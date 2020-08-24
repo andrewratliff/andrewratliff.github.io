@@ -12,12 +12,12 @@ With the help of journalist and author, Christina Lamb, Malala publishes her 201
 
 # Gender
 
-As children in the 1970s and 1980s, both of Malala’s parents experience the unequal treatment of boys and girls within their families. Malala’s mother, Toor Pekai, never learns to read or write as a child. Like the other girls in her family, she does not go to school. Malala’s father, Ziauddin, lives in a similar family. Malala relates:
+As children in the 1970s and 1980s, Malala’s parents experience the unequal treatment of boys and girls within their families. Malala’s mother, Toor Pekai, never learns to read or write as a child. Like the other girls in her family, she does not go to school. Malala’s father, Ziauddin, witnesses a similar divide in his family. Malala relates:
 
 
 > As in most families, the girls stayed at home while the boys went to school...School wasn’t the only thing my aunts missed out on. In the morning when my father was given a bowl of cream with his tea, his sisters were given only tea. If there were eggs, they would only be for the boys…(p. 22)
 
-Ziauddin and Toor Pekai’s families withhold education and certain types of food, among other privileges, from the girls.
+Both Ziauddin and Toor Pekai’s families withhold education and certain types of food, among other privileges, from the girls.
 
 The bias against girls continues when Malala comes into the world in 1997, a decade before the Taliban terrorizes the Swat Valley. Malala writes about the day she is born: “My mother was worried about telling [my father] he had a daughter not a son...” (p. 44). Traditionally, families host a celebration called a _Woma_, on their new baby’s seventh day of life. However, Malala’s family does not invite people to celebrate. Malala explains, “My parents had not held [a _Woma_] for me because they could not afford the goat and rice needed to feed the guests, and my grandfather would not help them out because I was not a boy” (p. 47). Two years later, Malala’s brother, Khushal, is born. Malala knows, “My mother had been waiting for a son and could not hide her joy when he was born” (p. 15). Malala’s grandfather offers to pay for the celebration of his grandson’s birth. Thus, the preference for boys carries into the lives of Malala and her siblings.
 
