@@ -103,4 +103,4 @@ Based on more physical descriptions of O-lan, Lotus, and Pear Blossom in the cha
 
 References
 
-Buck, P.S. (2012). _The Good Earth_. Open Road Integrated Media, Inc.
+Buck, P.S. (2012). _The Good Earth_. Open Road Integrated Media, Inc. (Original work published 1931).
