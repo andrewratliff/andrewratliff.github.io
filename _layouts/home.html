@@ -12,7 +12,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
-        <li>
+        <li id="post-{{ forloop.rindex }}">
           <div class="img-container">
             <img class="cover" width="100px" height="150px" src="{{ site.baseurl }}/assets/images/{{ post.image }}"/>
           </div>
