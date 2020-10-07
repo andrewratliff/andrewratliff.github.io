@@ -32,7 +32,7 @@ According to Jacobs, Dr. Flint fathers more than ten children born to different 
 
 White men may father mixed-race children, but to free a mixed-race child crosses a line that the male dominated slave society draws. Thus, the mixed-race children of enslaved mothers are necessarily born into slavery, with little hope of freedom. 
 
-The children do not go free, but they are not likely to stay with their mothers. The wives of enslavers generally take offense to mixed-race children on their properties, and demand the sale of the children. The wives pass their husbands’ mixed-race children, “…into the slave-trader’s hands as soon as possible, and thus [get] them out of their sight” (p. 31). Specifically in the case of Dr. and Mrs. Flint, Harriet professes: “[Dr. Flint] never allowed his offspring by slaves to remain long in sight of himself and his wife” (p. 39). When mixed-race children must leave their family members for a new plantation, they suffer for the crimes of their fathers.
+The children do not go free, but they are not likely to stay with their mothers. The wives of enslavers generally take offense to mixed-race children on their properties, and demand the sale of the children. The wives pass their husbands’ mixed-race children, “…into the slave-trader’s hands as soon as possible, and thus [get] them out of their sight” (p. 31). Specifically in the case of Dr. and Mrs. Flint, Harriet maintains: “[Dr. Flint] never allowed his offspring by slaves to remain long in sight of himself and his wife” (p. 39). When mixed-race children must leave their family members for a new plantation, they suffer for the crimes of their fathers.
 
 # Wealthy White Enslavers
 
