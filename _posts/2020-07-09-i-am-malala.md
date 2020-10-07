@@ -62,4 +62,4 @@ Adam Ellick's 2009 documentary, "Class Dismissed: Malala's Story," contains scen
 ---
 References
 
-Yousafzai, M. & Lamb, C. (2013). I am Malala: The girl who stood up for education and was shot by the Taliban. Little, Brown and Company.
+Yousafzai, M. & Lamb, C. (2013). _I am Malala: The girl who stood up for education and was shot by the Taliban._ Little, Brown and Company.
