@@ -5,8 +5,7 @@ book_author: Frederick Douglass
 categories: books
 image: frederick_douglass.jpg
 ---
-
-Through effective literary devices in his autobiography, _Narrative of the Life of Frederick Douglass, an American Slave_ (1845/2003), Frederick Douglass conveys the real, daily horror of 19th century slavery in the United States. Douglass’s autobiography contains imagery, simile, and personification to help bring to life Douglass’s personal experiences.
+How does Frederick Douglass manage to explain slavery to a broad audience? In his autobiography, _Narrative of the Life of Frederick Douglass, an American Slave_ (1845/2003), Douglass conveys the horror of 19th century slavery in the United States through effective literary devices. Douglass’s autobiography contains imagery, simile, and personification to help bring to life Douglass’s personal experiences.
 
 ### Imagery
 
@@ -34,7 +33,7 @@ To communicate a memory he has of his teenage years, Douglass again personifies 
 
 Douglass first attempts to escape when he is about eighteen. While Douglass and his companions do not know what lies before them, they know slavery well. Douglass personifies slavery as the villain in his horror story. He writes: “On the one hand, there stood slavery, a stern reality, glaring frightfully upon us, - its robes already crimsoned with the blood of millions, and even now feasting itself greedily upon our own flesh” (p. 77). Douglass’s vision of slavery stands before him, “stern,” and “glaring,” an unrelenting, ever-vigilant watchman that follows every movement of the enslaved people. Douglass understands that he is not the seasoned demon’s first victim, as its “robes” are stained with the blood of so many others. Insatiable, however, slavery continues to eat Douglass and his friends alive. Douglass knows that his life is constantly subject to surveillance and violence, and that his own body’s hard work feeds that which makes waste of him.
 
-Frederick Douglass’s words appeal to senses such as sight, hearing, and touch, to make his memories become real. Under the corruption of slavery, Douglass argues, no one’s humanity remains intact. He compares enslaved people to pigs and sheep, and other complicit members of the slave society to tigers or crocodiles. Finally, Douglass personifies slavery to depict on paper just how physically oppressive of a presence the institution is in the lives of enslaved people.
+Throughout his autobiography, Frederick Douglass’s words appeal to senses such as sight, hearing, and touch, to make his memories become real. He also compares enslaved people to pigs and sheep, and other complicit members of the slave society to tigers or crocodiles. The use of simile to compare humans to animals helps Douglass make the point that under the corruption of slavery, no one’s humanity remains intact. Finally, Douglass personifies slavery to depict on paper just how physically oppressive of a presence the institution is in the lives of enslaved people.
 
 ---
 References
