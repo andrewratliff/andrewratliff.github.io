@@ -7,7 +7,7 @@ image: incidents.jpg
 ---
 
 
-In her autobiography, _Incidents in the Life of a Slave Girl_ (1861/2016), Harriet Jacobs reveals the inescapable harm that slavery causes all members of society. Born in 1813, Jacobs spends her childhood and young adulthood enslaved in the American South. Later in her life, as a free woman in the North, Jacobs reflects on the unique consequences of slavery for specific groups of people. She discusses the distinct experiences of enslaved black women and enslaved mixed-race children, and also highlights the detrimental effects of slavery on white people, both wealthy enslavers and poor white people.
+In her autobiography, _Incidents in the Life of a Slave Girl_ (1861/2016), Harriet Jacobs reveals the inescapable harm that slavery causes all members of society. Born in 1813, Jacobs spends her childhood and young adulthood enslaved in the American South. Later in her life, as a free woman in the North, Jacobs reflects on the unique consequences of slavery for specific groups of people. Harriet Jacobs discusses the distinct hardships of enslaved black women and enslaved mixed-race children, and also highlights the detrimental effects of slavery on white people, both wealthy enslavers and poor white people.
 
 # Enslaved Black Women
 
