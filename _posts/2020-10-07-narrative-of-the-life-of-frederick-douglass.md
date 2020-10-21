@@ -5,7 +5,7 @@ book_author: Frederick Douglass
 categories: books
 image: frederick_douglass.jpg
 ---
-How does Frederick Douglass manage to explain slavery to a broad audience? In his autobiography, _Narrative of the Life of Frederick Douglass, an American Slave_ (1845/2003), Douglass conveys the horror of 19th century slavery in the United States through effective literary devices. Douglass’s autobiography contains imagery, simile, and personification to help bring to life Douglass’s personal experiences.
+How does Frederick Douglass manage to explain slavery to a broad audience? In his autobiography, _Narrative of the Life of Frederick Douglass, an American Slave_ (1845/2003), Douglass conveys the horror of 19th century slavery in the United States through effective literary devices. Frederick Douglass’s autobiography contains imagery, simile, and personification to help bring to life Douglass’s personal experiences.
 
 ### Imagery
 
