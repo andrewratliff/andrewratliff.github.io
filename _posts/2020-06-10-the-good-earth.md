@@ -13,28 +13,27 @@ Pearl Buck’s 1931 novel, _The Good Earth_, illustrates the great value that th
 
 Wang Lung first sees O-lan, the bride his father chooses for him, and thinks she is not at all beautiful. After many years of marriage, his wife’s appearance pleases him even less. He sees:
 
-
 > ...a dull and common creature, who plodded in silence without thought of how she appeared to others. [Wang Lung] saw for the first time that [O-lan’s] hair was rough and brown and unoiled and that her face was large and flat and coarse-skinned, and her features too large altogether and without any sort of beauty or light. Her eyebrows were scattered and the hairs too few, and her lips were too wide, and her hands and feet were large and spreading. (p. 99)
 
 The rough, dry texture of O-lan’s skin and hair, and her large size, displease Wang Lung because they are not youthful qualities. Wang Lung allows his judgment of O-lan’s appearance to dictate how he treats her. When O-lan is heavily pregnant with their first child, Wang Lung expects her to work in his fields as normal. On the day she gives birth, she “began to cut more and more slowly as noon wore on to afternoon and evening, and he turned to look at her with impatience” (p. 22). Even O-lan’s pregnancy does not persuade Wang Lung to demand less work from her. Wang Lung also speaks to O-lan harshly. He tells her how plain she looks and, “Although in his heart he was ashamed that he reproached this creature who through all the years had followed him faithfully as a dog...he could not stem the irritation in his breast and he went on ruthlessly…” (pp. 99-100). Despite O-lan’s hard work and devotion to their family, Wang Lung finds her so unattractive that he shows her no mercy.
 
 # Lotus
 
-Wang Lung visits a brothel, and when he sees Lotus, her beauty amazes him:
-
+While O-lan does not impress him, Wang Lung feels differently about Lotus. Wang Lung visits a brothel, and when he sees Lotus, her beauty amazes him:
 
 > If one had told him there were small hands like these he would not have believed it, hands so small and bones so fine and fingers so pointed with long nails stained the color of lotus buds, deep and rosy. And if one had told him that there could be feet like these, little feet thrust into pink satin shoes no longer than a man’s middle finger, and swinging childishly over the bed’s edge - if anyone had told him he would not have believed it. (pp. 105-106)
 
-Lotus’s fine bones, and small hands and feet, fit Wang Lung’s understanding of meek, feminine beauty. Wang Lung brings Lotus to live with him as his mistress, but before she comes, Wang Lung promises Lotus that “she shall do no work of any kind in [his] house but she shall wear only silken garments and eat shark’s fins if she will every day” (p. 113). Lotus’s beauty satisfies Wang Lung, and not only does he exempt her from any labor, he also happily provides her with expensive luxuries. Lotus enjoys privileges in the house, even above Wang Lung’s children. When food becomes limited one year, “Only to Lotus he gave secretly sugar and oil, because she was not accustomed to hardship” (p. 161). Lotus’s delicate appearance inspires Wang Lung to favor her and treat her delicately.
+Lotus’s fine bones, and small hands and feet, fit Wang Lung’s understanding of meek, feminine beauty. Wang Lung brings Lotus to live with him as his mistress, but before she comes, Wang Lung promises Lotus that “she shall do no work of any kind in [his] house but she shall wear only silken garments and eat shark’s fins if she will every day” (p. 113). Lotus’s beauty satisfies Wang Lung, and not only does he spares her from any labor, he also happily provides her with expensive luxuries. When food becomes limited one year, “Only to Lotus he gave secretly sugar and oil, because she was not accustomed to hardship” (p. 161). Lotus enjoys privileges in the house, even above Wang Lung’s children. Lotus’s delicate appearance inspires Wang Lung to favor her and treat her delicately.
 
 # Pear Blossom
 
-Wang Lung buys a girl, Pear Blossom, when she is about seven years old, to serve Lotus. When Wang Lung is almost seventy, and Pear Blossom not yet eighteen, Wang Lung takes Pear Blossom as another mistress:
-
+As Lotus grows older, Wang Lung turns to a younger woman. When Wang Lung is almost seventy, and his slave, Pear Blossom, not yet eighteen, Wang Lung takes Pear Blossom as another mistress:
 
 > ...He was ashamed, and yet half proud too, as one feels himself who is still lusty and a man when others hold him to be only grandfather...Pear Blossom sat silently on the other side of the table from him, and her hands were folded and quiet in her lap. Sometimes she looked at Wang Lung, fully and without coquetry as a child does, and he watched her and was proud of what he had done. (pp. 202-203)
 
-Pear Blossom’s girlishness attracts Wang Lung, and he appreciates how innocently she defers to him. Her youthful beauty, he feels, reflects well on him, and is a source of pride. Although Wang Lung buys Pear Blossom as a slave, her appearance exempts her from any hard work: “...because she was delicate always they had petted her and allowed her only...to do the lesser things…” (pp. 191-192). When she becomes a teenager, Wang Lung “watched the maid incessantly as she came and went and without his knowing it the thought of her filled his mind and he doted on her” (p. 119). Wang Lung naturally affords Pear Blossom attention and generosity because her features endear her to him.
+Pear Blossom’s girlishness attracts Wang Lung, and he appreciates how innocently she defers to him. Her youthful beauty, he feels, reflects well on him, and is a source of pride. Pear Blossom's appearance exempts her from any hard work: “...because she was delicate always they had petted her and allowed her only...to do the lesser things…” (pp. 191-192). When she becomes a teenager, Wang Lung “watched the maid incessantly as she came and went and without his knowing it the thought of her filled his mind and he doted on her” (p. 119). Wang Lung naturally affords Pear Blossom attention and generosity because her features endear her to him.
+
+Wang Lung considers Pear Blossom and Lotus youthful, beautiful, and thus worthy of gentle treatment. As Wang Lung's mistresses, Pear Blossom and Lotus are able to live restful days and receive gifts such as special foods and clothes. In contrast, Wang Lung sees only ugliness when he looks at his wife O-lan. According to Wang Lung, O-lan's appearance warrants fieldwork and unpleasant words. In The Good Earth, Wang Lung allows his opinions of beauty, and his preference for youth, to determine the quality of the three women's lives.
 
 # Questions
 
