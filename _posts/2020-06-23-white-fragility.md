@@ -23,7 +23,7 @@ Dr. DiAngelo argues that white people may think, “Well, I don’t tell that ki
 
 To break white solidarity, white people must hold each other accountable for their racism, whether the racism is deliberate or not, and whether there are people of color present or not. Dr. DiAngelo shares that when she encounters racism from fellow white people, she tries to impart her perspective in a calm and concise way. Confrontation of racism may not be easy, but Dr. DiAngelo argues that “white people can certainly bear the brunt of a hostile response less painfully than people of color can. There may even be a little less fragility because the intervention is coming from another white person” (p. 151). Dr. DiAngelo recommends that white people correct other white people when they have the opportunity. White people should have the emotional strength to clearly object to racist comments, as these comments are less personal for them. White people should also recognize that if they correct members of their own racial group, the feedback might be less uncomfortable.
 
-Racism in the United States is a problem that all members of society must combat, at every level. In White Fragility, Dr. DiAngelo writes as a white woman to other white people who want to do better in their daily lives. 
+Racism in the United States is a problem that all members of society must combat, at every level. In _White Fragility_, Dr. DiAngelo writes as a white woman to other white people who want to do better in their daily lives. 
 
 Listen to Dr. Robin DiAngelo talk about white fragility and racism in the United States.
 
