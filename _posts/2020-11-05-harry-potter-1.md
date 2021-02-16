@@ -4,7 +4,7 @@ title:  _Harry Potter and the Philosopher’s Stone_
 book_author: J.K. Rowling
 date:   2020-11-05 11:11:11 +0700
 categories: books
-image: harry-potter-1.jpeg
+image: harry-potter-1.jpg
 ---
 
 In J.K. Rowling's, _Harry Potter and the Philosopher’s Stone_ (1997), Harry Potter's life changes when he meets Rubeus Hagrid. The Dursleys, Petunia, Vernon, and Dudley, disparage Harry’s deceased parents, his schooling, and general well-being. In stark contrast, Hagrid shows Harry that he truly values Harry's heritage, education, and his emotional health. More transformative for Harry's life than the discovery of magic is Hagrid's caring friendship.
